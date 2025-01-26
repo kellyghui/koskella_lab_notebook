@@ -1,13 +1,17 @@
 # Reduced Bacterial Growth Assays 
 
-This assay aims to quantify the infectivity of bacteriophages using bacterial growth curves. We are currently using two versions of this project. Version 1 checks for internal variability within biological + technical replicates, both with and without phage. Version 2 optimizes the starting concentration of phage and quantifies the timepoint of maximum virulence.
+This assay aims to quantify the infectivity of bacteriophages using bacterial growth curves. We are currently using two versions of this project. 
+- **Version 1**: Checks for internal variability within biological + technical replicates, both with and without phage.
+- **Version 2**: Optimizes the starting concentration of phage and quantifies the timepoint of maximum virulence.
+
+# Navigation
 
 [Go to Version 1](#version-1)  
 [Go to Version 2](#version-2)  
 
-## Version 1
+# Version 1
 
-### Day 1
+## Day 1
 
 ### Procedure
 1. Pipette 90 uL KB broth into 96 well plate
@@ -15,22 +19,24 @@ This assay aims to quantify the infectivity of bacteriophages using bacterial gr
 3. Pipette 10 uL of DC into broth, dilute to appropriate concentration
 4. Plate
 
-### Day 2
+## Day 2
 
 ### Procedure
 1. Pick 8 colonies into a 24 well containing ~2 mL of KB broth
 
-### Day 3
+## Day 3
 
 ### Procedure
-1. split 96 well into 1/2 containing phage and 1/2 not containing phage
-2. pipette each row of biological replicates into a media resevoir
-3. transfer a small amount of liquid from reservoir into a 96 well
-4. back dilute until you reach starting density of 0.2-0.3
-5. pipette ~180 uL bacteria, and ~10 uL phage 
+1. Split the 96-well plate into halves: one with phage, one without.
+2. Pipette each row of biological replicates into a media reservoir.
+3. Transfer liquid from reservoir to a 96-well plate.
+4. Back dilute to a starting density of 0.2-0.3.
+5. Pipette ~180 µL bacteria and ~10 µL phage
+
+[Back to Top](#top)
 
 
-## Version 2
+# Version 2
 
 [Go to Day 1](#day-1)
 
@@ -42,6 +48,7 @@ This assay aims to quantify the infectivity of bacteriophages using bacterial gr
 ### Day 3
 honestly maybe just insert a picture of the set up that would be easier
 
+[Back to Top](#top)
 
 
 
