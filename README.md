@@ -33,7 +33,7 @@ This assay aims to quantify the infectivity of bacteriophages using bacterial gr
 4. Back dilute to a starting density of 0.2-0.3.
 5. Pipette ~180 µL bacteria and ~10 µL phage
 
-[Back to Top](#top)
+[Back to Top](#reduced-bacterial-growth-assays)
 
 
 # Version 2
@@ -48,7 +48,7 @@ This assay aims to quantify the infectivity of bacteriophages using bacterial gr
 ### Day 3
 honestly maybe just insert a picture of the set up that would be easier
 
-[Back to Top](#top)
+[Back to Top](#reduced-bacterial-growth-assays)
 
 
 
