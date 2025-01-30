@@ -7,14 +7,14 @@ This assay aims to quantify the infectivity of bacteriophages using bacterial gr
 
 # Navigation
 
-[Go to Version 0](#version-0) 
+[Go to Version 0](#version-0) <br>
 [Go to Version 1](#version-1)  
 [Go to Version 2](#version-2)  <br><br>
 
 # Version 0
 
 ### Procedure
-
+<br><br>
 # Version 1
 
 ## Day 1
