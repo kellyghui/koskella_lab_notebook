@@ -1,13 +1,19 @@
 # Reduced Bacterial Growth Assays 
 
 This assay aims to quantify the infectivity of bacteriophages using bacterial growth curves. We are currently using two versions of this project. 
+- **Version 0**: Defines the range of starting densities at which there is no significant correlation between starting and ending densities of bacterial growth, and quantifies optimal phage concentration
 - **Version 1**: Checks for internal variability within biological + technical replicates, both with and without phage.
 - **Version 2**: Optimizes the starting concentration of phage and quantifies the timepoint of maximum virulence. <br><br>
 
 # Navigation
 
+[Go to Version 0](#version-0) 
 [Go to Version 1](#version-1)  
 [Go to Version 2](#version-2)  <br><br>
+
+# Version 0
+
+### Procedure
 
 # Version 1
 
