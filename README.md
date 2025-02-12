@@ -59,21 +59,21 @@ honestly maybe just insert a picture of the set up that would be easier <br><br>
 
 # Files
 
-## tools.py
+### tools.py
 
-### clean_and_transpose
+**clean_and_transpose(df, start_row=32, end_row=106)**
 
-### phage_conc_sep
+**phage_conc_sep(df)**
 
-### plot_timeseries
+**plot_timeseries(dataframe, title = None)**
 
-### remove_outliers
+**remove_outliers(df, fifteen_min = 1, lower_bound = 0.15, upper_bound = 0.25)**
 
-### AUC_graph
+**AUC_graph(df, title = None)**
 
-### rsquared
+**rsquared(x, y)**
 
-### plot_with_r_squared
+**plot_with_r_squared(df, x_col, y_col, lower = 0, upper=20, decimals=4, title = None)**
 
 
 
