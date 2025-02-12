@@ -9,7 +9,7 @@ This assay aims to quantify the infectivity of bacteriophages using bacterial gr
 
 [Go to Version 0](#version-0) <br>
 [Go to Version 1](#version-1)  
-[Go to Version 2](#version-2)  <br><br>
+[Go to Version 2](#version-2)  <br>
 [Files](#files)
 
 # Version 0
@@ -72,6 +72,7 @@ Simple Functions for data visualization
 **plot_timeseries(dataframe, title = None)**
 - add optional graph title
 - plots one time series per column in dataframe
+  
 **remove_outliers(df, fifteen_min = 1, lower_bound = 0.15, upper_bound = 0.25)**
 - keeps only the columns in which the row specified meets the specific lower and upper bounds stated in fxn
 - fifteen_min: specify the row that will be filtered
