@@ -10,6 +10,7 @@ This assay aims to quantify the infectivity of bacteriophages using bacterial gr
 [Go to Version 0](#version-0) <br>
 [Go to Version 1](#version-1)  
 [Go to Version 2](#version-2)  <br><br>
+[Files](#files)
 
 # Version 0
 
@@ -56,6 +57,23 @@ honestly maybe just insert a picture of the set up that would be easier <br><br>
 [Back to Top](#reduced-bacterial-growth-assays)
 
 
+# Files
+
+## tools.py
+
+### clean_and_transpose
+
+### phage_conc_sep
+
+### plot_timeseries
+
+### remove_outliers
+
+### AUC_graph
+
+### rsquared
+
+### plot_with_r_squared
 
 
 
