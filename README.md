@@ -79,11 +79,14 @@ Simple Functions for data visualization
 
 **AUC_graph(df, title = None)**
 - AUC values calculated for every column in the dataframe
--  KDE plot (histogram + probability density curve) for each column
+- KDE plot (histogram + probability density curve) for each column
+- Returns a normal test (p <= 0.05 -> curve is normal, p > 0.05 -> curve is not normal)
 
 **rsquared(x, y)**
+- returns the strength and direction of the linear relationship between x and y
 
 **plot_with_r_squared(df, x_col, y_col, lower = 0, upper=20, decimals=4, title = None)**
 
 
+[Back to Top](#reduced-bacterial-growth-assays)
 
