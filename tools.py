@@ -17,14 +17,14 @@ def phage_conc_sep(df):
     tenthousand_phage = df.filter(regex=r'^[A-H](?:[7-9]|1[0-2])$')
     return no_phage, tenthousand_phage
 
-def plot_timeseries(dataframe, title = None):
+def plot_timeseries(dataframe, title = None, legend_title = 'Series'):
     plt.figure(figsize=(11, 6))
     for column in dataframe.columns:
         sns.scatterplot(data=dataframe, x=dataframe.index, y=dataframe[column], label=column, s=11)
     plt.xlabel('Time (hr)')
     plt.ylabel('OD reading') 
     plt.title(title)
-    plt.legend(title='Series', bbox_to_anchor=(1.05, 1.0), loc='upper left', ncol=3)
+    plt.legend(title=legend_title, bbox_to_anchor=(1.05, 1.0), loc='upper left', ncol=3)
     plt.tight_layout() 
     plt.show()
     
