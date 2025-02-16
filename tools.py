@@ -3,6 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import scipy.stats as stats
 import numpy as np
+import plotly as px
 
 def clean_and_transpose(df, start_row=32, end_row=106):
     df = df.iloc[start_row:end_row].T
@@ -27,6 +28,11 @@ def plot_timeseries(dataframe, title = None, legend_title = 'Series'):
     plt.legend(title=legend_title, bbox_to_anchor=(1.05, 1.0), loc='upper left', ncol=3)
     plt.tight_layout() 
     plt.show()
+
+def plot_timeseries_interactive(dataframe, title=None, legend_title="Series"):
+    fig = px.scatter(dataframe, x=dataframe.index, y=dataframe.columns,labels={'index': 'Time (hr)', 'value': 'OD reading','Series': legend_title},title=title, color_discrete_sequence=px.colors.qualitative.Pastel)
+    fig.update_traces(marker=dict(size=7))
+    fig.show()
     
 def remove_outliers(df, fifteen_min = 1, lower_bound = 0.15, upper_bound = 0.25):
     df = df.loc[:, (df.iloc[fifteen_min] > lower_bound) & (df.iloc[fifteen_min] < upper_bound)]
