@@ -1,12 +1,12 @@
-#3/03/2025
+# 3/03/2025
 
-## Phage Titer
+### Phage Titer
 - ~25.5 PFU on 10^-6 dil
 
-##Plate Setup:
+## Plate Setup:
 ![IMG_3736](https://github.com/user-attachments/assets/5d142903-9410-4366-8fd5-955f6ea6943d)
 
-##Results:
+## Results:
 
 ### Biological Replicates Averaged Per Row
 ![newplot (2)](https://github.com/user-attachments/assets/1974fa55-b4f2-4b6a-becf-68e661a8b0ab)
