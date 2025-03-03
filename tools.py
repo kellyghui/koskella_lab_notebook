@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import scipy.stats as stats
 import numpy as np
-import plotly as px
+import plotly.express as px
 
 def clean_and_transpose(df, start_row=32, end_row=106):
     df = df.iloc[start_row:end_row].T
