@@ -4,7 +4,7 @@
 - ~25.5 PFU on 10^-6 dil
 
 ## Plate Setup:
-![IMG_3736](https://github.com/user-attachments/assets/5d142903-9410-4366-8fd5-955f6ea6943d)
+![IMG_3737](https://github.com/user-attachments/assets/e503f97c-cd5d-4c54-aa68-f6a406110b69)
 
 ## Results:
 
