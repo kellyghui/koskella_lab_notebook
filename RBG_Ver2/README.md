@@ -8,7 +8,8 @@
 
 ## Results:
 
-### Biological Replicates Averaged Per Row
+### Biological Replicates Averaged Per Row 
+x axis is supposed to say Time (hr)
 ![newplot (2)](https://github.com/user-attachments/assets/1974fa55-b4f2-4b6a-becf-68e661a8b0ab)
 ![newplot (1)](https://github.com/user-attachments/assets/19be0122-9e03-49b7-9c87-fa8e66fc7576)
 ![newplot (3)](https://github.com/user-attachments/assets/dee9b190-ac42-426b-8f5a-34e8a3ba444e)
