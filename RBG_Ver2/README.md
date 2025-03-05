@@ -12,10 +12,7 @@
 x axis is supposed to say Time (hr)
 | Plot 1 | Plot 2 | Plot 3 | Plot 4 | 
 |--------|--------|--------|--------|
-| ![Plot 1](https://github.com/user-attachments/assets/1974fa55-b4f2-4b6a-becf-68e661a8b0ab) |
-| ![Plot 2](https://github.com/user-attachments/assets/19be0122-9e03-49b7-9c87-fa8e66fc7576) |
-| ![Plot 3](https://github.com/user-attachments/assets/dee9b190-ac42-426b-8f5a-34e8a3ba444e) |
-| ![Plot 4](https://github.com/user-attachments/assets/efff7e38-6f64-4b99-8135-4f4b25991587) |
+| ![Plot 1](https://github.com/user-attachments/assets/1974fa55-b4f2-4b6a-becf-68e661a8b0ab) | ![Plot 2](https://github.com/user-attachments/assets/19be0122-9e03-49b7-9c87-fa8e66fc7576) | ![Plot 3](https://github.com/user-attachments/assets/dee9b190-ac42-426b-8f5a-34e8a3ba444e) | ![Plot 4](https://github.com/user-attachments/assets/efff7e38-6f64-4b99-8135-4f4b25991587) |
 
 ### Phage PFUs on all Biological Reps
 ![image](https://github.com/user-attachments/assets/436d5b8c-fec6-449f-a524-7b8a9ef5794b)
