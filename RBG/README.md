@@ -9,7 +9,6 @@
 
 # 10/03/2024
 
-I am not clear on these dates but the order of trials is correct
 ### OD correlations
 
 | 10^3 PFU | 10^4 PFU |
