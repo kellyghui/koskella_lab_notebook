@@ -47,6 +47,7 @@ Variance Test (using np.var):
 - Variance of technical replicates: 0.0018
 - Variance of biological replicates: 0.0032
 - Technical replicates have less variance <br>
+
 Levene's Test (scipy.stats): Compares variance of two distributions, is robust to non-normal distributions.
 - Levene’s test statistic: 241.81573066018305, p-value: 2.266995930056248e-53
 - Reject null hypothesis: Variances are significantly different.
