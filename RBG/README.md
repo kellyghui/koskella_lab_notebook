@@ -5,7 +5,7 @@
 ## Dates
 [10/03/2024](#10032024) <br>
 [10/31/2024](#10312024)  
-[Combined](#combined) <br>
+[Combined](##combined-merged-1003--1031-results) <br>
 
 # 10/03/2024
 
