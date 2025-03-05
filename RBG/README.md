@@ -10,7 +10,7 @@
 |----------|----------|
 | ![Plot 1](https://github.com/user-attachments/assets/040a9bc5-d044-4859-a3d7-dea1a3bb1e8d) | ![Plot 2](https://github.com/user-attachments/assets/5fc441e0-064e-4970-96b6-e80f62156a73) |
 
-### AUC Curves (using starting OD between 0.15 and 0.25
+### AUC Curves (using starting OD between 0.15 and 0.25)
 
 | 10^3 PFU | 10^4 PFU |
 |----------|----------|
@@ -37,7 +37,7 @@
 
 ## 10/31/2024
 
-## AUC Curves
+## AUC Curves (using starting OD between 0.15 and 0.25)
 | 10^3 PFU | 10^4 PFU |
 |----------|----------|
 | **AUC:** 228.18 | **AUC:** 193.67 |
