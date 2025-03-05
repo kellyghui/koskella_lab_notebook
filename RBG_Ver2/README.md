@@ -30,7 +30,7 @@ x axis is supposed to say Time (hr)
 
 | 10^5 PFU | 10^6 PFU | Empty |
 |--------|--------|-------|
-| ![Plot 7a](https://github.com/user-attachments/assets/34000073-add6-4ea5-b6e6-86afaef9cd1a) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/84117085-1be0-4019-a1f6-f6ad700faa48) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) | ![Plot 8](https://github.com/user-attachments/assets/c6ce7e58-2afe-490b-8e5e-ff4c2e71189d) |
+| ![Plot 7a](https://github.com/user-attachments/assets/34000073-add6-4ea5-b6e6-86afaef9cd1a) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/84117085-1be0-4019-a1f6-f6ad700faa48) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) | ![Plot 8](https://github.com/user-attachments/assets/478f0220-7e25-4285-ae8b-6ae635536cf5) |
 
 
 
