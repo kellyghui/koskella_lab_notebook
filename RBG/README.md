@@ -2,8 +2,9 @@
 
 <img width="727" alt="Screen Shot 2025-03-03 at 3 53 00 PM" src="https://github.com/user-attachments/assets/87cce085-5c3c-48bd-912e-10c376b89ca4" />
 
-## 10/03/2024
+# 10/03/2024
 
+note: 10^3 and 10^4 may be swapped for 10/03. check book. Also I am not clear on these dates but the order of trials is correct
 ### OD correlations
 
 | 10^3 PFU | 10^4 PFU |
@@ -20,7 +21,7 @@
 
 
 
-## 10/14/2024
+# 10/14/2024
 
 ### OD Correlations
 
@@ -35,7 +36,7 @@
 |![Plot 1](https://github.com/user-attachments/assets/351f13a5-5872-47f0-8697-e33a35d40c90)| ![Plot 2](https://github.com/user-attachments/assets/c1e5d84c-4311-4dc8-b371-7138e33510ec) |
 
 
-## 10/31/2024
+# 10/31/2024
 
 ## AUC Curves (using starting OD between 0.15 and 0.25)
 | 10^3 PFU | 10^4 PFU |
