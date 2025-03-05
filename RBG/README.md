@@ -4,8 +4,8 @@
 
 ## Dates
 [10/03/2024](#10032024) <br>
-[10/14/2024](#10142024)  
-[10/31/2024](#10312024) <br>
+[10/31/2024](#10312024)  
+[Combined](#combined) <br>
 
 # 10/03/2024
 
@@ -27,7 +27,7 @@ I am not clear on these dates but the order of trials is correct
 
 
 
-# 10/14/2024
+# 10/31/2024
 
 ### OD Correlations
 
@@ -43,7 +43,7 @@ I am not clear on these dates but the order of trials is correct
 |![Plot 1](https://github.com/user-attachments/assets/351f13a5-5872-47f0-8697-e33a35d40c90)| ![Plot 2](https://github.com/user-attachments/assets/c1e5d84c-4311-4dc8-b371-7138e33510ec) |
 
 
-# 10/31/2024
+# Combined (Merged 10/03 + 10/31 results)
 
 ## AUC Curves (using starting OD between 0.15 and 0.25)
 | 10^3 PFU | 10^4 PFU |
