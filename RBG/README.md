@@ -8,7 +8,7 @@
 
 | 10^3 PFU | 10^4 PFU |
 |----------|----------|
-| ![Plot 1](https://github.com/user-attachments/assets/040a9bc5-d044-4859-a3d7-dea1a3bb1e8d) | ![Plot 2](https://github.com/user-attachments/assets/5fc441e0-064e-4970-96b6-e80f62156a73) |
+| ![image](https://github.com/user-attachments/assets/75dca1e6-4171-4438-afde-a55cbcf0812c) | ![image](https://github.com/user-attachments/assets/e4267bde-c820-4a7f-863a-1d9467323eaa)|
 
 ### AUC Curves (using starting OD between 0.15 and 0.25)
 
@@ -26,7 +26,7 @@
 
 | 10^3 PFU | 10^4 PFU |
 |----------|----------|
-| ![Plot 1](https://github.com/user-attachments/assets/eac1d6e2-07a0-408e-97a2-06123fdb1148) | ![Plot 2](https://github.com/user-attachments/assets/798510d8-b4c6-4a9d-9222-338932767b54) |
+| ![image](https://github.com/user-attachments/assets/f26be135-d895-44c7-a625-8f2cd985fc57) | ![image](https://github.com/user-attachments/assets/cac6acdd-5dd0-4482-9774-190d6f2355b2) |
 
 ### AUC Curves (using starting OD between 0.15 and 0.25)
 | 10^3 PFU | 10^4 PFU |
