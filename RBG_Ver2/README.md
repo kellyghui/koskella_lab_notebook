@@ -20,7 +20,7 @@ x axis is supposed to say Time (hr)
 
 ### Phage PFUs on all Biological Reps
 
-| Plot 1 | Plot 2 | Plot 3 |
+| 0 PFU | Plot 2 | Plot 3 |
 |--------|--------|--------|
 | ![Plot 1a](https://github.com/user-attachments/assets/436d5b8c-fec6-449f-a524-7b8a9ef5794b) <br> ![Plot 1b](https://github.com/user-attachments/assets/8c5b2d72-3528-465a-95a7-0f9eaf078e7c) | ![Plot 2a](https://github.com/user-attachments/assets/c5034072-1aa8-4d24-9363-cca9b3bdc22f) <br> ![Plot 2b](https://github.com/user-attachments/assets/a1906915-3c30-42f7-8aff-c0b8a6d76056) | ![Plot 3a](https://github.com/user-attachments/assets/3e0e0772-c68a-45e5-b9d2-4547060bbda0) <br> ![Plot 3b](https://github.com/user-attachments/assets/44c68a87-f789-41d8-8e0b-fd41ca6318a4) |
 
@@ -30,6 +30,6 @@ x axis is supposed to say Time (hr)
 
 | Plot 7 | Plot 8 | Empty | 
 |--------|--------|-------|
-| ![Plot 7a](https://github.com/user-attachments/assets/34000073-add6-4ea5-b6e6-86afaef9cd1a) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/84117085-1be0-4019-a1f6-f6ad700faa48) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) |
+| ![Plot 7a](https://github.com/user-attachments/assets/34000073-add6-4ea5-b6e6-86afaef9cd1a) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/84117085-1be0-4019-a1f6-f6ad700faa48) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) | |
 
 
