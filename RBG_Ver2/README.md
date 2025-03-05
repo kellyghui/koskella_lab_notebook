@@ -18,7 +18,7 @@ x axis is supposed to say Time (hr)
 |--------|--------|
 | ![Plot 3](https://github.com/user-attachments/assets/dee9b190-ac42-426b-8f5a-34e8a3ba444e) | ![Plot 4](https://github.com/user-attachments/assets/efff7e38-6f64-4b99-8135-4f4b25991587) |
 
-### Phage PFUs on all Biological Reps
+### Phage PFUs for Technical Replicates
 
 | 0 PFU | < 10 PFU | 10 PFU |
 |--------|--------|--------|
