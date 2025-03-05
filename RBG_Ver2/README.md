@@ -28,8 +28,9 @@ x axis is supposed to say Time (hr)
 |--------|--------|--------|
 | ![Plot 4a](https://github.com/user-attachments/assets/7f4459dc-31cb-45ca-ab37-0fdf936083c4) <br> ![Plot 4b](https://github.com/user-attachments/assets/285213c5-47c2-4b9d-ba61-70280652add6) | ![Plot 5a](https://github.com/user-attachments/assets/90006925-48c7-4a19-aa75-b7f84259ee53) <br> ![Plot 5b](https://github.com/user-attachments/assets/81d05b2c-5c50-41f2-afc8-6870d2359a02) | ![Plot 6a](https://github.com/user-attachments/assets/157e4520-76e0-4d02-a541-40eadb36532a) <br> ![Plot 6b](https://github.com/user-attachments/assets/9abdea7c-9b68-45fe-aa94-89fd041cbcc4) |
 
-| 10^5 PFU | 10^6 PFU | Empty | 
+| 10^5 PFU | 10^6 PFU | Empty |
 |--------|--------|-------|
-| ![Plot 7a](https://github.com/user-attachments/assets/34000073-add6-4ea5-b6e6-86afaef9cd1a) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/84117085-1be0-4019-a1f6-f6ad700faa48) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) |                 |
+| ![Plot 7a](https://github.com/user-attachments/assets/34000073-add6-4ea5-b6e6-86afaef9cd1a) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/84117085-1be0-4019-a1f6-f6ad700faa48) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) | ![Plot 8](https://github.com/user-attachments/assets/c6ce7e58-2afe-490b-8e5e-ff4c2e71189d) |
+
 
 
