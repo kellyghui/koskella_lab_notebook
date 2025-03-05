@@ -9,7 +9,7 @@
 
 # 10/03/2024
 
-note: 10^3 and 10^4 may be swapped for 10/03. check book. Also I am not clear on these dates but the order of trials is correct
+I am not clear on these dates but the order of trials is correct
 ### OD correlations
 
 | 10^3 PFU | 10^4 PFU |
@@ -20,8 +20,9 @@ note: 10^3 and 10^4 may be swapped for 10/03. check book. Also I am not clear on
 
 | 10^3 PFU | 10^4 PFU |
 |----------|----------|
-| **AUC:** 87.32 | **AUC:** 85.41 |
-| ![Plot 1](https://github.com/user-attachments/assets/9b2582a6-f4ce-445c-ad5b-60ceedb7d21c) | ![Plot 2](https://github.com/user-attachments/assets/48299545-702f-4eed-b274-3ce61a35b00e) |
+| **AUC:** 85.41 | **AUC:** 87.32 |
+| **Standardized AUC:** 4.27 | **Standardized AUC:** 3.63 |
+| ![Plot 1](https://github.com/user-attachments/assets/48299545-702f-4eed-b274-3ce61a35b00e) | ![Plot 2](https://github.com/user-attachments/assets/9b2582a6-f4ce-445c-ad5b-60ceedb7d21c) |
  
 
 
@@ -38,6 +39,7 @@ note: 10^3 and 10^4 may be swapped for 10/03. check book. Also I am not clear on
 | 10^3 PFU | 10^4 PFU |
 |----------|----------|
 | **AUC:** 142.77 | **AUC:** 106.34 |
+| **Standardized AUC:** 5.94 | **Standardized AUC:** 5.31 |
 |![Plot 1](https://github.com/user-attachments/assets/351f13a5-5872-47f0-8697-e33a35d40c90)| ![Plot 2](https://github.com/user-attachments/assets/c1e5d84c-4311-4dc8-b371-7138e33510ec) |
 
 
@@ -47,6 +49,7 @@ note: 10^3 and 10^4 may be swapped for 10/03. check book. Also I am not clear on
 | 10^3 PFU | 10^4 PFU |
 |----------|----------|
 | **AUC:** 228.18 | **AUC:** 193.67 |
+| **Standardized AUC:** 5.18 | **Standardized AUC:** 4.40 |
 | ![image](https://github.com/user-attachments/assets/eb9d32ed-bdde-4265-9d47-987d6de6007c) | ![image](https://github.com/user-attachments/assets/7cd8b359-424b-437c-a1a0-5aebe022ebad) |
 
 
