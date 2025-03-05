@@ -2,6 +2,11 @@
 
 <img width="727" alt="Screen Shot 2025-03-03 at 3 53 00 PM" src="https://github.com/user-attachments/assets/87cce085-5c3c-48bd-912e-10c376b89ca4" />
 
+## Dates
+[10/03/2024](#10/03/2024) <br>
+[10/14/2024](#10/14/2024)  
+[10/31/2024](#10/31/2024)  <br>
+
 # 10/03/2024
 
 note: 10^3 and 10^4 may be swapped for 10/03. check book. Also I am not clear on these dates but the order of trials is correct
