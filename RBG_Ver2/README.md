@@ -42,7 +42,7 @@ x axis is supposed to say Time (hr)
 | **Standardized AUC:** 5.16 | **Standardized AUC:** 5.15 | 
 | ![Plot 7a](https://github.com/user-attachments/assets/f2bc1ff3-8797-4301-85e2-a6e684effb6f) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/5be0186e-a97f-4715-aa4a-3d28c5fcfebd) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) | ![image](https://github.com/user-attachments/assets/926e54d2-29ae-4b07-82c1-2cef1fde6812) |
 
-### Biological Replicate OD Readings at 12 hour mark
+### Technical Replicates Averaged at 12 hour mark
 ![Plot 1](https://github.com/user-attachments/assets/bdbc2c0d-d37d-474c-9e24-222e08a86302)
 
 
