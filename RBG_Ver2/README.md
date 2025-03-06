@@ -1,10 +1,11 @@
-[3/03/2025](#3-03-2025)
+[3/03/2025](#3032025)
 - [Conclusions](#pfu-comparison) 
 
 # 3/03/2025
 
 ### Phage Titer
 - ~25.5 PFU on 10^-6 dil (90 uL plated)
+- or should i use the phage titer from last week
 
 ## Plate Setup:
 ![IMG_3737](https://github.com/user-attachments/assets/e503f97c-cd5d-4c54-aa68-f6a406110b69)
