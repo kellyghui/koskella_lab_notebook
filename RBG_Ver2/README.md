@@ -11,7 +11,7 @@
 
 ## Results:
 
-### Biological Replicates Averaged Per Row 
+### Averaged Technical Replicates Per Biological Replicate
 x axis is supposed to say Time (hr)
 | Plot 1 | Plot 2 |
 |--------|--------|
@@ -21,7 +21,7 @@ x axis is supposed to say Time (hr)
 |--------|--------|
 | ![Plot 3](https://github.com/user-attachments/assets/dee9b190-ac42-426b-8f5a-34e8a3ba444e) | ![Plot 4](https://github.com/user-attachments/assets/efff7e38-6f64-4b99-8135-4f4b25991587) |
 
-### Phage PFUs for Technical Replicates
+### Averaged Technical Replicates Per Phage PFU
 
 | 0 PFU | < 10 PFU | 10 PFU |
 |--------|--------|--------|
@@ -39,8 +39,12 @@ x axis is supposed to say Time (hr)
 |--------|--------|-------|
 | **AUC:** 61.97 | **AUC:** 61.78 |
 | **Standardized AUC:** 5.16 | **Standardized AUC:** 5.15 | 
-| ![Plot 7a](https://github.com/user-attachments/assets/f2bc1ff3-8797-4301-85e2-a6e684effb6f) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/5be0186e-a97f-4715-aa4a-3d28c5fcfebd) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) | ![image](https://github.com/user-attachments/assets/926e54d2-29ae-4b07-82c1-2cef1fde6812)
- |
+| ![Plot 7a](https://github.com/user-attachments/assets/f2bc1ff3-8797-4301-85e2-a6e684effb6f) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/5be0186e-a97f-4715-aa4a-3d28c5fcfebd) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) | ![image](https://github.com/user-attachments/assets/926e54d2-29ae-4b07-82c1-2cef1fde6812) |
+
+### Biological Replicate OD Readings at 12 hour mark
+![Plot 1](https://github.com/user-attachments/assets/bdbc2c0d-d37d-474c-9e24-222e08a86302)
+
+
 
 <a name="pfu-comparison"></a>
 ### Compare 10^4 PFU for combined biological replicates (from RBG: 10/03/24 + 10/31/24) & technical reps (from RBG_Ver2 3/03/25)
