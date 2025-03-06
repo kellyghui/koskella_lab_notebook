@@ -33,14 +33,13 @@ x axis is supposed to say Time (hr)
 |--------|--------|--------|
 | **AUC:** 73.17 | **AUC:** 73.48 | **AUC:** 69.52|
 | **Standardized AUC:** 6.10 | **Standardized AUC:** 6.12 | **Standardized AUC:** 5.79|
-| ![Plot 4a](https://github.com/user-attachments/assets/84b85f65-f1c2-46c2-8e8e-da31608504df) <br> ![Plot 4b](https://github.com/user-attachments/assets/285213c5-47c2-4b9d-ba61-70280652add6) | ![Plot 5a](https://github.com/user-attachments/assets/9d63c93f-bb0e-4c58-bcad-7285d4263fae) <br> ![Plot 5b](https://github.com/user-attachments/assets/81d05b2c-5c50-41f2-afc8-6870d2359a02) | ![Plot 6a](https://github.com/user-attachments/assets/92a0afe1-0c1a-4e5b-b8c5-9ff7ec787c0e)
- <br> ![Plot 6b](https://github.com/user-attachments/assets/9abdea7c-9b68-45fe-aa94-89fd041cbcc4) |
+| ![Plot 4a](https://github.com/user-attachments/assets/84b85f65-f1c2-46c2-8e8e-da31608504df) <br> ![Plot 4b](https://github.com/user-attachments/assets/285213c5-47c2-4b9d-ba61-70280652add6) | ![Plot 5a](https://github.com/user-attachments/assets/9d63c93f-bb0e-4c58-bcad-7285d4263fae) <br> ![Plot 5b](https://github.com/user-attachments/assets/81d05b2c-5c50-41f2-afc8-6870d2359a02) | ![Plot 6a](https://github.com/user-attachments/assets/92a0afe1-0c1a-4e5b-b8c5-9ff7ec787c0e) <br> ![Plot 6b](https://github.com/user-attachments/assets/9abdea7c-9b68-45fe-aa94-89fd041cbcc4) |
 
 | 10^5 PFU | 10^6 PFU | Empty |
 |--------|--------|-------|
 | **AUC:** 61.97 | **AUC:** 61.78 |
 | **Standardized AUC:** 5.16 | **Standardized AUC:** 5.15 | 
-| ![Plot 7a](https://github.com/user-attachments/assets/f2bc1ff3-8797-4301-85e2-a6e684effb6f) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/5be0186e-a97f-4715-aa4a-3d28c5fcfebd) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) | ![Plot 8](https://github.com/user-attachments/assets/fbc067ee-c33c-4b7b-bbfd-7b787b8c4646) |
+| ![Plot 7a](https://github.com/user-attachments/assets/f2bc1ff3-8797-4301-85e2-a6e684effb6f) <br> ![Plot 7b](https://github.com/user-attachments/assets/58ba8201-5ad2-4c36-945f-48c51daeb83f) | ![Plot 8a](https://github.com/user-attachments/assets/5be0186e-a97f-4715-aa4a-3d28c5fcfebd) <br> ![Plot 8b](https://github.com/user-attachments/assets/d83522f3-f3ed-40ca-9fa9-261a2fc5ffa2) | ![Plot 8] (https://github.com/user-attachments/assets/fbc067ee-c33c-4b7b-bbfd-7b787b8c4646) |
 
 <a name="pfu-comparison"></a>
 ### Compare 10^4 PFU for combined biological replicates (from RBG: 10/03/24 + 10/31/24) & technical reps (from RBG_Ver2 3/03/25)
