@@ -1,5 +1,6 @@
 [3/03/2025](#3032025)
-- [Conclusions](#pfu-comparison) 
+- [Conclusions](#pfu-comparison)
+[3/10/2025](#3102025)
 
 # 3/03/2025
 
@@ -58,4 +59,10 @@ Levene's Test (scipy.stats): Compares variance of two distributions, is robust t
 - Levene’s test statistic: 241.81573066018305, p-value: 2.266995930056248e-53
 - Reject null hypothesis: Variances are significantly different.
 
+# 3/10/2025
+
+### Phage Titer 
+- ..
+
+## Plate Setup
 
