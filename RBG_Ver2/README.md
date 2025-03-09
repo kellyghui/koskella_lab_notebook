@@ -86,19 +86,18 @@ Levene's Test (scipy.stats): Compares variance of two distributions, is robust t
 |--------|--------|--------|
 | **AUC:**  | **AUC:**  | **AUC:** |
 | **Standardized AUC:**  | **Standardized AUC:** | **Standardized AUC:** |
-| ![image](https://github.com/user-attachments/assets/c8a054b9-8d26-4f35-a38a-471a8193eb6e)
- <br>  |![image](https://github.com/user-attachments/assets/5f061ffe-8008-4bc6-a48d-86c9ccb8c556) <br> | ![image](https://github.com/user-attachments/assets/c89257a3-4d5d-4867-b464-1c971bdee522) <br> |
+| ![image](https://github.com/user-attachments/assets/c8a054b9-8d26-4f35-a38a-471a8193eb6e) <br> |![image](https://github.com/user-attachments/assets/5f061ffe-8008-4bc6-a48d-86c9ccb8c556) <br> | ![image](https://github.com/user-attachments/assets/c89257a3-4d5d-4867-b464-1c971bdee522) <br> |
 
 | 10^2 PFU | 10^3 PFU | 10^4 PFU |
 |--------|--------|--------|
-| **AUC:** 73.17 | **AUC:** 73.48 | **AUC:** 69.52|
-| **Standardized AUC:** 6.10 | **Standardized AUC:** 6.12 | **Standardized AUC:** 5.79|
+| **AUC:**  | **AUC:**  | **AUC:** |
+| **Standardized AUC:** | **Standardized AUC:** | **Standardized AUC:** |
 | ![image](https://github.com/user-attachments/assets/3846af80-f2e3-4929-8248-a757437db83c) <br> | ![image](https://github.com/user-attachments/assets/3027186f-02f0-4c63-b77d-f49f875bb258) <br> | ![image](https://github.com/user-attachments/assets/ab2a2629-b378-4f00-93a0-6aea076292e2) <br> |
 
 | 10^5 PFU | 10^6 PFU | Empty |
 |--------|--------|-------|
-| **AUC:** 61.97 | **AUC:** 61.78 |
-| **Standardized AUC:** 5.16 | **Standardized AUC:** 5.15 | 
+| **AUC:**  | **AUC:**  |
+| **Standardized AUC:**  | **Standardized AUC:** | 
 | ![image](https://github.com/user-attachments/assets/b7f14e1c-191e-4972-90a0-ab0a59f6ce33) <br> | ![image](https://github.com/user-attachments/assets/073c17f0-fa12-4ad7-a4a5-7ecb85e7891a) <br> | ![image](https://github.com/user-attachments/assets/f5f78c46-876b-422d-bc1e-d33ecfe0369f) |
 
 ### Technical Replicates Averaged at 12 hour mark
