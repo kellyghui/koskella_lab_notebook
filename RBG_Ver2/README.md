@@ -67,3 +67,41 @@ Levene's Test (scipy.stats): Compares variance of two distributions, is robust t
 
 ## Plate Setup
 
+## Results:
+
+### Averaged Technical Replicates Per Biological Replicate
+
+| Plot 1 | Plot 2 |
+|--------|--------|
+| ![newplot (5)](https://github.com/user-attachments/assets/279bd891-cf5e-4cae-b169-f6b0a6c14fd6) | ![newplot (6)](https://github.com/user-attachments/assets/a945d5da-3334-40dd-9be4-23b96f5379a1) |
+
+| Plot 3 | Plot 4 |
+|--------|--------|
+| ![newplot (7)](https://github.com/user-attachments/assets/b6f5ff94-a767-4908-8f14-411a5d89d1de) | ![newplot (8)](https://github.com/user-attachments/assets/3bcbaace-1100-4d1a-8286-48d50afc36a6) |
+
+### Averaged Technical Replicates Per Phage PFU
+- revise these PFUs after phage titer
+
+| 0 PFU | < 10 PFU | 10 PFU |
+|--------|--------|--------|
+| **AUC:**  | **AUC:**  | **AUC:** |
+| **Standardized AUC:**  | **Standardized AUC:** | **Standardized AUC:** |
+| ![image](https://github.com/user-attachments/assets/c8a054b9-8d26-4f35-a38a-471a8193eb6e)
+ <br>  |![image](https://github.com/user-attachments/assets/5f061ffe-8008-4bc6-a48d-86c9ccb8c556) <br> | ![image](https://github.com/user-attachments/assets/c89257a3-4d5d-4867-b464-1c971bdee522) <br> |
+
+| 10^2 PFU | 10^3 PFU | 10^4 PFU |
+|--------|--------|--------|
+| **AUC:** 73.17 | **AUC:** 73.48 | **AUC:** 69.52|
+| **Standardized AUC:** 6.10 | **Standardized AUC:** 6.12 | **Standardized AUC:** 5.79|
+| ![image](https://github.com/user-attachments/assets/3846af80-f2e3-4929-8248-a757437db83c) <br> | ![image](https://github.com/user-attachments/assets/3027186f-02f0-4c63-b77d-f49f875bb258) <br> | ![image](https://github.com/user-attachments/assets/ab2a2629-b378-4f00-93a0-6aea076292e2) <br> |
+
+| 10^5 PFU | 10^6 PFU | Empty |
+|--------|--------|-------|
+| **AUC:** 61.97 | **AUC:** 61.78 |
+| **Standardized AUC:** 5.16 | **Standardized AUC:** 5.15 | 
+| ![image](https://github.com/user-attachments/assets/b7f14e1c-191e-4972-90a0-ab0a59f6ce33) <br> | ![image](https://github.com/user-attachments/assets/073c17f0-fa12-4ad7-a4a5-7ecb85e7891a) <br> | ![image](https://github.com/user-attachments/assets/f5f78c46-876b-422d-bc1e-d33ecfe0369f) |
+
+### Technical Replicates Averaged at 12 hour mark
+- again, revise with new phage titer
+![image](https://github.com/user-attachments/assets/c84e44a0-3256-4489-b754-a67df34ecdac)
+
