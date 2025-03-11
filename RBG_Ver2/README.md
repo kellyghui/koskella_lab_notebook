@@ -94,6 +94,7 @@ None lol
 | **Standardized AUC:**  | **Standardized AUC:** | 
 | ![image](https://github.com/user-attachments/assets/b7f14e1c-191e-4972-90a0-ab0a59f6ce33) <br> | ![image](https://github.com/user-attachments/assets/073c17f0-fa12-4ad7-a4a5-7ecb85e7891a) <br> | ![image](https://github.com/user-attachments/assets/f5f78c46-876b-422d-bc1e-d33ecfe0369f) |
 
-### Technical Replicates Averaged at 12 hour mark
-![image](https://github.com/user-attachments/assets/c84e44a0-3256-4489-b754-a67df34ecdac)
+### Technical Replicates Averaged at 15 hour mark
+![image](https://github.com/user-attachments/assets/a8edc0de-5e4b-446b-af9b-d056ac3f6295)
+
 
