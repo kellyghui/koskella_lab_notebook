@@ -6,7 +6,7 @@
 # 3/03/2025
 
 ### Phage Titer
-- ~25.5 PFU on 10^-6 dil (90 uL plated)
+- ~25.5 PFU on 10^-6 dil (100 uL plated)
 - or should i use the phage titer from last week
 
 ## Plate Setup:
@@ -63,7 +63,7 @@ Levene's Test (scipy.stats): Compares variance of two distributions, is robust t
 # 3/10/2025
 
 ### Phage Titer 
-- ..
+-  ~43.2 PFU on 10^-6 dil (100 uL plated)
 
 ## Plate Setup
 
@@ -80,7 +80,6 @@ Levene's Test (scipy.stats): Compares variance of two distributions, is robust t
 | ![newplot (7)](https://github.com/user-attachments/assets/b6f5ff94-a767-4908-8f14-411a5d89d1de) | ![newplot (8)](https://github.com/user-attachments/assets/3bcbaace-1100-4d1a-8286-48d50afc36a6) |
 
 ### Averaged Technical Replicates Per Phage PFU
-- revise these PFUs after phage titer
 
 | 0 PFU | < 10 PFU | 10 PFU |
 |--------|--------|--------|
@@ -101,6 +100,5 @@ Levene's Test (scipy.stats): Compares variance of two distributions, is robust t
 | ![image](https://github.com/user-attachments/assets/b7f14e1c-191e-4972-90a0-ab0a59f6ce33) <br> | ![image](https://github.com/user-attachments/assets/073c17f0-fa12-4ad7-a4a5-7ecb85e7891a) <br> | ![image](https://github.com/user-attachments/assets/f5f78c46-876b-422d-bc1e-d33ecfe0369f) |
 
 ### Technical Replicates Averaged at 12 hour mark
-- again, revise with new phage titer
 ![image](https://github.com/user-attachments/assets/c84e44a0-3256-4489-b754-a67df34ecdac)
 
