@@ -10,7 +10,7 @@
 - or should i use the phage titer from last week
 
 ## Plate Setup:
-![IMG_3737](https://github.com/user-attachments/assets/e503f97c-cd5d-4c54-aa68-f6a406110b69)
+![IMG_3772](https://github.com/user-attachments/assets/ffc19528-b321-4764-a798-b3ce2c2a0969)
 
 ## Results:
 
@@ -60,6 +60,7 @@ None lol
 -  ~43.2 PFU on 10^-6 dil (100 uL plated)
 
 ## Plate Setup
+- same as [3/03/2025](#plate-setup)
 
 ## Results:
 
