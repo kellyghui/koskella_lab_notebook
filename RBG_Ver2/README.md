@@ -58,7 +58,6 @@ None lol
 
 ### Phage Titer 
 -  ~43.2 PFU on 10^-6 dil (100 uL plated)
--  same PFU conc as last week
 
 ## Plate Setup
 
