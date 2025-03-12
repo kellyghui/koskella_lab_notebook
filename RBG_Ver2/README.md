@@ -7,7 +7,6 @@
 
 ### Phage Titer
 - ~25.5 PFU on 10^-6 dil (100 uL plated)
-- or should i use the phage titer from last week
 
 ## Plate Setup:
 ![IMG_3772](https://github.com/user-attachments/assets/ffc19528-b321-4764-a798-b3ce2c2a0969)
