@@ -1,3 +1,4 @@
 ## Plate Setup (invariant)
-![IMG_3738](https://github.com/user-attachments/assets/72dc9ac3-283e-475b-9ac3-50ee0f3465ab)
+
+![IMG_3773](https://github.com/user-attachments/assets/a386d5b8-a936-4465-8cdc-1c901f580b1c)
 
