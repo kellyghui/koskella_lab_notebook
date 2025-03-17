@@ -3,7 +3,8 @@
 This assay aims to quantify the infectivity of bacteriophages using bacterial growth curves. We are currently using two versions of this project. 
 - **Version 0**: Defines the range of starting densities at which there is no significant correlation between starting and ending densities of bacterial growth, and quantifies optimal phage concentration
 - **Version 1**: Checks for internal variability within biological + technical replicates, both with and without phage.
-- **Version 2**: Optimizes the starting concentration of phage and quantifies the timepoint of maximum virulence. <br><br>
+- **Version 2**: Measure OD of standard concentration of host challenged with a large range of phage concentrations, capture response to relevant biological variation in phage concentration (by testing different orders of magnitudes)
+-  two things: average measure of host resistance, variation within a population of host resistance figured out by MIC like graph <br><br> 
 
 # Navigation
 
