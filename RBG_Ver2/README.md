@@ -122,7 +122,7 @@ None lol
 
 | 0 PFU | < 10 PFU | 10 PFU |
 |--------|--------|--------|
-| ![image](https://github.com/user-attachments/assets/c0153da3-d0c2-481d-974e-fb20179171c2) <br> |![image](https://github.com/user-attachments/assets/0270f6b9-e7d6-4fd3-a2fa-b5cc253cf26d <br> | ![image](https://github.com/user-attachments/assets/ff702026-6596-43d8-a548-30cb079824f0 <br> |
+| ![image](https://github.com/user-attachments/assets/c0153da3-d0c2-481d-974e-fb20179171c2) <br> | ![image](https://github.com/user-attachments/assets/0270f6b9-e7d6-4fd3-a2fa-b5cc253cf26d) <br> | ![image](https://github.com/user-attachments/assets/ff702026-6596-43d8-a548-30cb079824f0) <br> |
 
 | 10^2 PFU | 10^3 PFU | 10^4 PFU |
 |--------|--------|--------|
