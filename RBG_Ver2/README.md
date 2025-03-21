@@ -99,7 +99,7 @@ None lol
 ![image](https://github.com/user-attachments/assets/a8edc0de-5e4b-446b-af9b-d056ac3f6295)
 
 
-# 3/03/2025
+# 3/14/2025
 
 ### Phage Titer
 
@@ -112,7 +112,7 @@ None lol
 
 | Plot 1 | Plot 2 |
 |--------|--------|
-| ![newplot (9)](https://github.com/user-attachments/assets/31478e96-18e2-4168-be17-118a82b796c9) |![newplot (10)](https://github.com/user-attachments/assets/b84f8aed-24f6-4ad2-98f8-047fd4dce603)|
+|![newplot (9)](https://github.com/user-attachments/assets/31478e96-18e2-4168-be17-118a82b796c9)|![newplot (10)](https://github.com/user-attachments/assets/b84f8aed-24f6-4ad2-98f8-047fd4dce603)|
 
 | Plot 3 | Plot 4 |
 |--------|--------|
@@ -122,14 +122,11 @@ None lol
 
 | 0 PFU | < 10 PFU | 10 PFU |
 |--------|--------|--------|
-
-| ![image](https://github.com/user-attachments/assets/c0153da3-d0c2-481d-974e-fb20179171c2)
- <br> |![image](https://github.com/user-attachments/assets/0270f6b9-e7d6-4fd3-a2fa-b5cc253cf26d <br> | ![image](https://github.com/user-attachments/assets/ff702026-6596-43d8-a548-30cb079824f0 <br> |
+| ![image](https://github.com/user-attachments/assets/c0153da3-d0c2-481d-974e-fb20179171c2) <br> |![image](https://github.com/user-attachments/assets/0270f6b9-e7d6-4fd3-a2fa-b5cc253cf26d <br> | ![image](https://github.com/user-attachments/assets/ff702026-6596-43d8-a548-30cb079824f0 <br> |
 
 | 10^2 PFU | 10^3 PFU | 10^4 PFU |
 |--------|--------|--------|
-|![image](https://github.com/user-attachments/assets/02c542a9-cd49-481d-9f2b-ed9186a6bcb8) <br> |![image](https://github.com/user-attachments/assets/01c35c0f-2637-4b0d-97dc-cc16394d711f)
- <br> | ![image](https://github.com/user-attachments/assets/8f7d1846-68ec-4eb5-93e0-50128e22d608)|
+|![image](https://github.com/user-attachments/assets/02c542a9-cd49-481d-9f2b-ed9186a6bcb8) <br> |![image](https://github.com/user-attachments/assets/01c35c0f-2637-4b0d-97dc-cc16394d711f) <br> | ![image](https://github.com/user-attachments/assets/8f7d1846-68ec-4eb5-93e0-50128e22d608)|
 
 
 | 10^5 PFU | 10^6 PFU | Empty |
