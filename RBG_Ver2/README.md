@@ -112,7 +112,8 @@ None lol
 
 | Plot 1 | Plot 2 |
 |--------|--------|
-|![newplot (9)](https://github.com/user-attachments/assets/31478e96-18e2-4168-be17-118a82b796c9)|![newplot (10)](https://github.com/user-attachments/assets/b84f8aed-24f6-4ad2-98f8-047fd4dce603)|
+|![newplot (13)](https://github.com/user-attachments/assets/d51424a9-8326-4886-ae69-5995f5630c10)|![newplot (14)](https://github.com/user-attachments/assets/17e02599-2b31-4e16-8cd8-ee453c05cd6a) |
+
 
 | Plot 3 | Plot 4 |
 |--------|--------|
