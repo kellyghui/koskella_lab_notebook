@@ -102,6 +102,7 @@ None lol
 # 3/14/2025
 
 ### Phage Titer
+- 36 PFU  on 10^-6 dil (100 uL plated)
 
 ## Plate Setup:
 - same as [3/03/2025](#plate-setup)
