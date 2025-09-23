@@ -13,8 +13,9 @@
         ├── 3/03/2025
         ├── 3/10/2025
         └── 3/14/2025
-└── RBG_Senior_Thesis
+├── RBG_Senior_Thesis
     ├── Final Thesis Proposal
     ├── ..
     └── ..
+└── Daily Lab Notes
 ```
