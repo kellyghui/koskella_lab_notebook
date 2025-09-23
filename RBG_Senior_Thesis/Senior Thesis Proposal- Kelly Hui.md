@@ -1,4 +1,4 @@
-**Project Title:** 
+**Project Title:**
 
 Exploring resistance landscape changes across two *Pseudomonas Syringae* genotypes when challenged with Phage FRS
 
@@ -28,6 +28,7 @@ Many lytic phages have been characterized as biocontrol agents, demonstrating a 
 4. \*\*Whole genome sequencing of ancestral and evolved bacterial isolates to identify genetic changes during experimental evolution and mutations associated with host resistance
 
 \*\*do if time allows  
+
 **Hypothesis:** 
 
 1. The ancestral PT23 bacterial strain will exhibit higher susceptibility to FRS bacteriophage, causing a more homogenous distribution of cell death and a lower mean resistance and smaller variance compared to ancestral 99TK, which is less susceptible and will result in a greater resistance heterogeneity.   
@@ -39,8 +40,8 @@ Many lytic phages have been characterized as biocontrol agents, demonstrating a 
 This experiment will focus on the bacterial strains PT23 and 99TK, as well as the FRS bacteriophage strain. 
 
 1. Host \+ Phage Passaging
-
-   ![][image1]
+   
+<img width="307" height="137" alt="Screen Shot 2025-09-22 at 10 43 31 PM" src="https://github.com/user-attachments/assets/8e86530c-1f3d-4925-b520-9d5c7aa1071e" />
 
    * This will be repeated for…  
 1. PT23 alone (host control)  
@@ -54,7 +55,8 @@ To initiate the experiment, we will inoculate either the host alone or the host 
 
 2. Quantitative Resistance Assay
 
-![][image2]
+<img width="596" height="246" alt="Screen Shot 2025-09-22 at 10 44 32 PM" src="https://github.com/user-attachments/assets/93a3a497-8683-4c1a-bb62-61ef92acf0d7" />
+
 
 * This will be repeated for each glycerol stock from these conditions…  
 1. PT23 \+ FRS bacteriophage  
@@ -63,6 +65,8 @@ To initiate the experiment, we will inoculate either the host alone or the host 
 To determine quantitative resistance, we thaw and plate a host glycerol stock on KB medium to establish single isolates. From this plate, we will pick approximately 6 colonies and grow them up in KB overnight before transferring to a 96-well plate. As shown above, each 96 well plate will contain 6 biological replicates assayed over eight orders of magnitude of phage concentration, with two technical replicates per colony to ensure measurement robustness. Each plate will also be arranged with each row corresponding to a different phage PFU. After sufficient growth, optical density (OD) will be measured at approximately 12 hours. These OD readings will then be plotted against phage PFU to generate a dose–response curve, from which an IC₅₀-like metric will be derived to quantify host susceptibility.
 
 **Expected Results:**
+
+<img width="661" height="148" alt="Screen Shot 2025-09-22 at 10 44 47 PM" src="https://github.com/user-attachments/assets/5599bd09-7b27-4c27-9399-8a7e3e6549c4" />
 
 We expect that PT23 will exhibit a lower mean variability in phage concentration at the 12 hour mark, indicating a more homogeneous susceptible population. In contrast, 99TK is expected to show a higher mean and greater variability, indicating a more heterogeneous resistance profile.
 
