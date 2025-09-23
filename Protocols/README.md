@@ -2,14 +2,14 @@
 
 # Navigation
 
-[Making Rif](#making-rif) <br>
-[Sterilize Beads](#sterilize-beads)  
-[Liquid Contamination](#liquid-contamination)  <br>
-[Overnight Culture](#overnight-culture) <br>
-[Making Glycerol Stocks](#making-glycerol-stocks) <br>
-[Phage Amplification](#phage-amplification) <br>
-[Phage Titer](#phage-titer) <br>
-[Streaking Assay To Determine Susceptibility](#streaking-assay-to-determine-susceptibility) <br>
+1. [Making Rif](#making-rif) <br>
+2. [Sterilize Beads](#sterilize-beads)  
+3. [Liquid Contamination](#liquid-contamination)  <br>
+4. [Overnight Culture](#overnight-culture) <br>
+5. [Making Glycerol Stocks](#making-glycerol-stocks) <br>
+6. [Phage Amplification](#phage-amplification) <br>
+7. [Phage Titer](#phage-titer) <br>
+8. [Streaking Assay To Determine Susceptibility](#streaking-assay-to-determine-susceptibility) <br>
 
 ## Making rif
 
@@ -78,6 +78,7 @@
 ### Materials
 1. Cryo tube
 
+### Procedure
 1. Make the 50% glycerol solution by diluting 100% glycerol in dH20
 2. Add 500 μL of the overnight culture to 500 μL of 50% glycerol in a cryo tube
 3. Vortex it
@@ -103,6 +104,7 @@
 1. Drip x uL phage down a square plate (4 lines per plate?)
 2. Streak a colony horizontally across phage line
 3. If colony dies then it's still susceptible
+
 
 
 
