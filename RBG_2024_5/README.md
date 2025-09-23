@@ -3,7 +3,8 @@
 This assay aims to quantify the infectivity of bacteriophages using bacterial growth curves. We are currently using two versions of this project. 
 - **Version 0**: Defines the range of starting densities at which there is no significant correlation between starting and ending densities of bacterial growth, and quantifies optimal phage concentration
 - **Version 1**: Checks for internal variability within biological + technical replicates, both with and without phage.
-- **Version 2**: Optimizes the starting concentration of phage and quantifies the timepoint of maximum virulence. <br><br>
+- **Version 2**: Measure OD of standard concentration of host challenged with a large range of phage concentrations, capture response to relevant biological variation in phage concentration (by testing different orders of magnitudes)
+-  two things: average measure of host resistance, variation within a population of host resistance figured out by MIC like graph <br><br> 
 
 # Navigation
 
@@ -14,8 +15,30 @@ This assay aims to quantify the infectivity of bacteriophages using bacterial gr
 
 # Version 0
 
+## Day 1
+
 ### Procedure
-<br><br>
+1. Pour broth into media reservoir
+2. Pipette 90 uL KB broth into 96 well plate
+3. Hustle responsibly to and from freezer, grab DC stock
+4. Put around 20 uL into well plate, away from the dil series
+5. Perform 10 fold serial dilution (10 uL into each)
+6. Plate 90 uL with beads <br><br>
+ ## Day 2
+
+ ### Procedure
+ 1. In a 96 well, pipette 100 uL KB
+ 2. Pick 96 colonies <br><br>
+ 
+ ## Day 3
+
+ ### Procedure
+ 1. 900 uL phage buffer into 24 well plate (flat bottom)
+ 2. 10 fold dilution of phage to working concentration concentration (100 uL into each)
+ 3. Back dilute to around 0.2
+ 4. Split plate in half, 10 uL of 1000 PFU and other half 10000 PFU phage into each well <br><br>
+
+
 # Version 1
 
 ## Day 1
@@ -52,7 +75,13 @@ This assay aims to quantify the infectivity of bacteriophages using bacterial gr
 1. Pick 4 colonies into a 24 well containing ~2 mL of KB broth <br><br>
 
 ## Day 3
-honestly maybe just insert a picture of the set up that would be easier <br><br>
+1. Split 96 well into 4 sections for 4 biological replicates
+2. Read OD on plate reader
+3. Pipette each biological replicate into a media reservoir
+4. Dilute to a range between 0.15-0.25
+5. Create a dilution series of phage from -1 to -6
+6. Pipette 10 uL phage dilution series into each column of 96 well containing 180 uL bacteria
+7.  <br><br>
 
 [Back to Top](#reduced-bacterial-growth-assays)
 
