@@ -5,6 +5,7 @@
 [Making Rif](#making-rif) <br>
 [Sterilize Beads](#sterilize-beads)  
 [Liquid Contamination](#liquid-contamination)  <br>
+[Overnight Culture](#overnight-culture) <br>
 [Making Glycerol Stocks](#making-glycerol-stocks) <br>
 [Phage Amplification](#phage-amplification) <br>
 [Phage Titer](#phage-titer) <br>
@@ -53,12 +54,34 @@
 2. Pour bleach (~ 1:9 ratio)
 3. Let it sit for around 30 minutes
 4. Pour out in fume hood
-5. Wash the original container with hot water, spray with ethanol 
+5. Wash the original container with hot water, spray with ethanol
+
+## Overnight Culture
+
+### Materials
+1. 2 erlenmeyer flasks
+2. KB broth
+3. Inoculation loop
+4. Foil
+5. Ice bucket + ice
+
+### Procedure
+1. Pour some KB in both flasks (don't go past half way)
+2. Leave one flask as negative control
+3. Take out old glycerol stock / whatever medium
+4. If glycerol stock, put on ice before taking to BSC
+5. Use inoculation loop, scoop a little stock, drop in KB
+6. Tape down in incubator, put on shake, foil in top
 
 ## Making Glycerol Stocks
 
+### Materials
+1. Cryo tube
+
 1. Make the 50% glycerol solution by diluting 100% glycerol in dH20
-2. Add 500 μL of the overnight culture to 500 μL of 50% glycerol in a 2 mL screw top (or however much i forgot)
+2. Add 500 μL of the overnight culture to 500 μL of 50% glycerol in a cryo tube
+3. Vortex it
+4. Pop in -80
 
 ## Phage Amplification
 
@@ -80,6 +103,7 @@
 1. Drip x uL phage down a square plate (4 lines per plate?)
 2. Streak a colony horizontally across phage line
 3. If colony dies then it's still susceptible
+
 
 
 
