@@ -81,40 +81,7 @@ This assay aims to quantify the infectivity of bacteriophages using bacterial gr
 4. Dilute to a range between 0.15-0.25
 5. Create a dilution series of phage from -1 to -6
 6. Pipette 10 uL phage dilution series into each column of 96 well containing 180 uL bacteria
-7.  <br><br>
-
-[Back to Top](#reduced-bacterial-growth-assays)
-
-
-# Files
-
-### tools.py
-
-Simple Functions for data visualization
-
-**clean_and_transpose(df, start_row=32, end_row=106)**
-
-**phage_conc_sep(df)**
-- separates wells 1-6 from wells 7-12
-- returns two dataframes
-
-**plot_timeseries(dataframe, title = None)**
-- add optional graph title
-- plots one time series per column in dataframe
-  
-**remove_outliers(df, fifteen_min = 1, lower_bound = 0.15, upper_bound = 0.25)**
-- keeps only the columns in which the row specified meets the specific lower and upper bounds stated in fxn
-- fifteen_min: specify the row that will be filtered
-
-**AUC_graph(df, title = None)**
-- AUC values calculated for every column in the dataframe
-- KDE plot (histogram + probability density curve) for each column
-- Returns a normal test (p <= 0.05 -> curve is normal, p > 0.05 -> curve is not normal)
-
-**rsquared(x, y)**
-- returns the strength and direction of the linear relationship between x and y
-
-**plot_with_r_squared(df, x_col, y_col, lower = 0, upper=20, decimals=4, title = None)**
+ <br><br>
 
 
 [Back to Top](#reduced-bacterial-growth-assays)
