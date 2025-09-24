@@ -1,12 +1,13 @@
 ## Navigation
 
-### September
+September <br>
 - [9/22/25](#92225)
 - [9/23/25](#92325)
 - [9/24/25](#92425)
-### October
-### November
-### December
+<br>
+October <br>
+November <br>
+December <br>
 
 
 # September
