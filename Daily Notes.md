@@ -4,6 +4,7 @@ September <br>
 - [9/22/25](#92225)
 - [9/23/25](#92325)
 - [9/24/25](#92425)
+- [9/25/25](#92525)
 <br>
 October <br>
 November <br>
@@ -23,4 +24,9 @@ December <br>
 - Leaving on counter for 2 days
 
 ## 9/24/25
-- Claire starting PT23 O/N for phage amplification 
+- Claire starting PT23 O/N for phage amplification
+
+## 9/25/25
+- Started FRS phage amplification with PT23
+- Diluted O/N culture in fresh medium, but bacteria did not grow up enough in the 2 hours so we ran out of time, restarting tomorrow
+- Started O/N from single colony for 99TK and PT23
