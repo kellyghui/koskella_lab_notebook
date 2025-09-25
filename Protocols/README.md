@@ -87,14 +87,14 @@
 ## Phage Amplification
 
 1. Grow overnight culture bacteria
-2. Dilute O/N culture in fresh medium 1:100 dilution (total vol 2 mL)
-3. Grow to OD 0.1-0.3 +- 6h
-4. Add phage in 1/100 dilution (20 uL to 2 mL), incubate until next step is ready
-5. Grow bacteria from O/N in 100-200 mL medium on a falcon tube with breath seal until OD 0.1-0.3
-6. Incubate until lysis
-7. Divide into 50 mL tubes, centrifuge 4000 rpm/15 min
-8. Filter with 0.45 uM filter
-9. Titer with double agar to get concentration
+2. Dilute O/N culture in fresh medium 1:100 dilution (500 uL in 50 mL)
+   - you can just fill approx to 50 mL line - but use a larger glass (150 mL erlenmeyer) so its more aerated 
+4. Grow to OD 0.1-0.3 +- 2h
+5. Add phage in 1/500 dilution (100 uL to 50 mL)
+7. Incubate until lysis, check every half hour till full lysis is observed
+8. Divide into 50 mL tubes, centrifuge 4000 rpm/15 min
+10. Filter with 0.45 uM filter (get rid of all bacteria)
+11. Titer with double agar to get concentration
 
 ## Phage Titer
 1. ..
@@ -104,6 +104,7 @@
 1. Drip x uL phage down a square plate (4 lines per plate?)
 2. Streak a colony horizontally across phage line
 3. If colony dies then it's still susceptible
+
 
 
 
