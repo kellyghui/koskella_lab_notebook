@@ -30,3 +30,6 @@ December <br>
 - Started FRS phage amplification with PT23
 - Diluted O/N culture in fresh medium, but bacteria did not grow up enough in the 2 hours so we ran out of time, restarting tomorrow
 - Started O/N from single colony for 99TK and PT23 for glycerol stocks on Friday
+
+## 9/26/25
+- Media contaminated, restart O/N cultures and phage amplification next week
