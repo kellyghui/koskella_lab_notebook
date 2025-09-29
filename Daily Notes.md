@@ -33,3 +33,20 @@ December <br>
 
 ## 9/26/25
 - Media contaminated, restart O/N cultures and phage amplification next week
+
+## 9/29/25
+- Make 99TK, PT23 O/N for the glycerol stocks
+- Phage amplification
+
+## 9/30/25
+- Make glycerol stocks from 99TK, PT23 O/N
+
+## 9/27/25
+- Claire start O/N 99TK, PT23 for soft agar overlay for phage titer
+
+## 9/28/25
+- soft agar overlay 99TK, PT23 to titer FRS
+- wideee dilution series
+
+## 9/29/25
+- Check plates
