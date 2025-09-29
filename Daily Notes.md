@@ -41,12 +41,12 @@ December <br>
 ## 9/30/25
 - Make glycerol stocks from 99TK, PT23 O/N
 
-## 9/27/25
+## 10/1/25
 - Claire start O/N 99TK, PT23 for soft agar overlay for phage titer
 
-## 9/28/25
-- soft agar overlay 99TK, PT23 to titer FRS
+## 10/2/25
+- Soft agar overlay 99TK, PT23 to titer FRS 
 - wideee dilution series
 
-## 9/29/25
+## 10/3/25
 - Check plates
