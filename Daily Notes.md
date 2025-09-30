@@ -1,12 +1,22 @@
 ## Navigation
 
-September <br>
+### September <br>
+Week 1
 - [9/22/25](#92225)
 - [9/23/25](#92325)
 - [9/24/25](#92425)
 - [9/25/25](#92525)
-<br>
-October <br>
+- [9/26/25](#92625) <br>
+
+Week 2 <br>
+- [9/29/25](#92925)
+- [9/30/25](#93025) <br>
+
+### October <br>
+
+Week 2
+- [10/1/25](#10125)
+
 November <br>
 December <br>
 
