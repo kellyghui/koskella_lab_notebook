@@ -36,7 +36,7 @@ December <br>
 
 ## 9/29/25
 - Make 99TK, PT23 O/N for the glycerol stocks
-- Phage amplification
+- Phage amplification for FRS (3 hour amplification time)
 
 ## 9/30/25
 - Make glycerol stocks from 99TK, PT23 O/N
