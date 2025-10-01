@@ -49,7 +49,9 @@ December <br>
 - Phage amplification for FRS (3 hour amplification time)
 
 ## 9/30/25
-- Make glycerol stocks from 99TK, PT23 O/N
+- Make glycerol stocks from 99TK, PT23 O/N (made 3 stocks for each strain)
+
+# October
 
 ## 10/1/25
 - Claire start O/N 99TK, PT23 for soft agar overlay for phage titer
