@@ -102,10 +102,11 @@
 2. Soft Agar
 3. HA Plates
 4. Serological Pipette
-5. P1000 + tips
-6. Phage Buffer
-7. Media Reservoir
-8. Phage + PT23 culture
+5. P1000 + tips (for bacteria)
+6. P200 + tips (for phage)
+7. Phage Buffer
+8. Media Reservoir
+9. Phage + PT23 culture
 
 ### Protocol
 1. Label hard agar plates (2 plates per dilution) + negative control
@@ -121,6 +122,7 @@
 1. Drip x uL phage down a square plate (4 lines per plate?)
 2. Streak a colony horizontally across phage line
 3. If colony dies then it's still susceptible
+
 
 
 
