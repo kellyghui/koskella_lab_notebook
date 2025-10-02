@@ -97,13 +97,31 @@
 11. Titer with double agar to get concentration
 
 ## Phage Titer
-1. ..
+### Materials
+1. 24 well plate
+2. Soft Agar
+3. HA Plates
+4. Serological Pipette
+5. P1000 + tips
+6. Phage Buffer
+7. Media Reservoir
+8. Phage + PT23 culture
+
+### Protocol
+1. Label hard agar plates (2 plates per dilution) + negative control
+  - negative control is just soft agar + bacteria?
+1. Make phage dilution series (900 uL phage buffer + 100 uL phage culture)
+2. For dilutions you want to plate, take 100 uL phage and pipette one drop on one side of plate
+3. On other side of the plate, pipette 300 uL PT23
+4. Use serological pipette to pipette some SA and drip it into the HA plate swirling the plate in the process
+5. Let dry
 
 ## Streaking Assay To Determine Susceptibility
 
 1. Drip x uL phage down a square plate (4 lines per plate?)
 2. Streak a colony horizontally across phage line
 3. If colony dies then it's still susceptible
+
 
 
 
