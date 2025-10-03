@@ -23,6 +23,7 @@ December <br>
 
 # September
 
+--Start of Week--
 ## 9/22/25
 - Started 99TK O/N
 
@@ -44,9 +45,12 @@ December <br>
 ## 9/26/25
 - Media contaminated, restart O/N cultures and phage amplification next week
 
+--End of Week--
+
+--Start of Week--
 ## 9/29/25
 - Make 99TK, PT23 O/N for the glycerol stocks
-- Phage amplification for FRS (3 hour amplification time)
+- Phage amplification for FRS (3 hour amplification time) + filter
 
 ## 9/30/25
 - Make glycerol stocks from 99TK, PT23 O/N (made 3 stocks for each strain)
@@ -58,7 +62,11 @@ December <br>
 
 ## 10/2/25
 - Soft agar overlay 99TK, PT23 to titer FRS 
-- wideee dilution series
+- plated dilution series of -5 to -8 for phage FRS (duplicates of each)
+- plated 1 negative control for 99TK and PT23
+- left in incubator to grow overnight  
 
 ## 10/3/25
 - Check plates
+
+--End of Week--
