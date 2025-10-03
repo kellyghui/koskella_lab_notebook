@@ -85,16 +85,28 @@
 4. Pop in -80
 
 ## Phage Amplification
+### Materials
+1. O/N culture
+2. 150 mL erlenmeyer
+3. P1000 + tips
+4. P200 + tips
+5. conical tube + tube rack
+6. 0.45 uM filter
+7. syringe
+8. 50 mL tubes (if centrifuging is needed)
 
+### Procedure
 1. Grow overnight culture bacteria
 2. Dilute O/N culture in fresh medium 1:100 dilution (500 uL in 50 mL)
    - you can just fill approx to 50 mL line - but use a larger glass (150 mL erlenmeyer) so its more aerated 
-4. Grow to OD 0.1-0.3 +- 2h
-5. Add phage in 1/500 dilution (100 uL to 50 mL)
-7. Incubate until lysis, check every half hour till full lysis is observed
-8. Divide into 50 mL tubes, centrifuge 4000 rpm/15 min
-10. Filter with 0.45 uM filter (get rid of all bacteria)
-11. Titer with double agar to get concentration
+3. Grow to OD 0.1-0.3 +- 2h or until turbid enough
+4. Add phage in 1/500 dilution (100 uL to 50 mL)
+5. Incubate until lysis, check every half hour till full lysis is observed
+6. Divide into 50 mL tubes, centrifuge 4000 rpm/15 min (if soln is cloudy and needs separation)
+7. Place 0.45 uM filter on the syringe tip, and put it over the conical tube
+8. Push syringe down to filter with 0.45 uM filter (get rid of all bacteria)
+   - if not centrifuged, sometime dead cell particles get stuck in filter 
+9. Titer with double agar to get concentration
 
 ## Phage Titer
 ### Materials
@@ -109,19 +121,19 @@
 9. Phage + PT23 culture
 
 ### Protocol
-1. Label hard agar plates (2 plates per dilution) + negative control
-  - negative control is just soft agar + bacteria
-1. Make phage dilution series (900 uL phage buffer + 100 uL phage culture)
-2. For dilutions you want to plate, take 100 uL phage and pipette one drop on one side of plate
-3. On other side of the plate, pipette 300 uL PT23
-4. Use serological pipette to pipette some SA and drip it into the HA plate swirling the plate in the process
-5. Let dry
+1. Label hard agar plates (2 plates per dilution) + negative control (negative control is just soft agar + bacteria)
+2. Make phage dilution series (900 uL phage buffer + 100 uL phage culture)
+3. For dilutions you want to plate, take 100 uL phage and pipette one drop on one side of plate
+4. On other side of the plate, pipette 300 uL PT23
+5. Use serological pipette to pipette some SA and drip it into the HA plate swirling the plate in the process
+6. Let dry
 
 ## Streaking Assay To Determine Susceptibility
 
 1. Drip x uL phage down a square plate (4 lines per plate?)
 2. Streak a colony horizontally across phage line
 3. If colony dies then it's still susceptible
+
 
 
 
