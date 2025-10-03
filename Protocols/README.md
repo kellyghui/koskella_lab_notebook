@@ -110,7 +110,7 @@
 
 ### Protocol
 1. Label hard agar plates (2 plates per dilution) + negative control
-  - negative control is just soft agar + bacteria?
+  - negative control is just soft agar + bacteria
 1. Make phage dilution series (900 uL phage buffer + 100 uL phage culture)
 2. For dilutions you want to plate, take 100 uL phage and pipette one drop on one side of plate
 3. On other side of the plate, pipette 300 uL PT23
@@ -122,6 +122,7 @@
 1. Drip x uL phage down a square plate (4 lines per plate?)
 2. Streak a colony horizontally across phage line
 3. If colony dies then it's still susceptible
+
 
 
 
