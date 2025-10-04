@@ -49,7 +49,7 @@ December <br>
 
 --Start of Week--
 ## 9/29/25
-- Make 99TK, PT23 O/N for the glycerol stocks
+- Make 99TK, PT23 O/N for the glycerol stocks (using single colony from old old glycerol stock)
 - Phage amplification for FRS (3 hour amplification time) + filter
 
 ## 9/30/25
@@ -58,7 +58,7 @@ December <br>
 # October
 
 ## 10/1/25
-- Claire start O/N 99TK, PT23 for soft agar overlay for phage titer
+- Claire start O/N 99TK, PT23 using glcyerol stocks from yesterday, for titer
 
 ## 10/2/25
 - Soft agar overlay 99TK, PT23 to titer FRS 
@@ -67,6 +67,16 @@ December <br>
 - left in incubator to grow overnight  
 
 ## 10/3/25
-- Check plates
+- Check plates </br>
+<img src="https://github.com/user-attachments/assets/0c681d08-bef7-4936-b7a7-e69cf864b139" width="300"/>  </br>
+- No observable difference in susceptibility to FRS like previously predicted (phage knocked down both to the same order of magnitude)
+- Phage PFU of undiluted culture
+
+| Strain | PFU/mL undiluted culture |
+|--------|---------|
+| 99TK   | 5.8 × 10⁹ |
+| PT23   | 4.5 × 10⁹ |
+
+
 
 --End of Week--
