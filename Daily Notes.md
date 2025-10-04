@@ -16,6 +16,10 @@ Week 2 <br>
 
 Week 2
 - [10/1/25](#10125)
+- [10/2/25](#10225)
+- [10/3/25](#10325)
+
+Week 3
 
 November <br>
 December <br>
@@ -49,7 +53,7 @@ December <br>
 
 --Start of Week--
 ## 9/29/25
-- Make 99TK, PT23 O/N for the glycerol stocks (using single colony from old old glycerol stock)
+- Make 99TK, PT23 O/N for the glycerol stocks (using single colony from old old glycerol stock plated 9/23)
 - Phage amplification for FRS (3 hour amplification time) + filter
 
 ## 9/30/25
