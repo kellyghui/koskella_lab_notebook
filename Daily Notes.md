@@ -77,14 +77,15 @@ December <br>
 - Check plates </br>
 <img src="https://github.com/user-attachments/assets/0c681d08-bef7-4936-b7a7-e69cf864b139" width="300"/>  </br>
 - No observable difference in susceptibility to FRS like previously predicted (phage knocked down both to the same order of magnitude)
-- Phage PFU of undiluted culture
+- Phage Titer: 
 
 | Strain | PFU/mL undiluted culture |
 |--------|---------|
 | 99TK   | 5.8 × 10⁹ |
 | PT23   | 4.5 × 10⁹ |
 
---End of Week--
+--End of Week-- 
+
 --Start of Week--
 
 # 10/6/25
@@ -97,5 +98,5 @@ December <br>
 # 10/9/25
 - dilute back to OD 0.2
 - 8 biological replicates with 3 technical replicates across 4 conditions (no phage, 10^3, 10^5, 10^7)
-- add FRS
-<img src="![IMG_6649](https://github.com/user-attachments/assets/2f04e643-2d8c-4bd5-8f8b-08fb4fa54a7c)" width="300"/>  </br>
+- add FRS </br>
+<img src="https://github.com/user-attachments/assets/2f04e643-2d8c-4bd5-8f8b-08fb4fa54a7c" width="300"/>  </br>
