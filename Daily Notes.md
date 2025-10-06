@@ -20,6 +20,9 @@ Week 2
 - [10/3/25](#10325)
 
 Week 3
+- [10/6/25](#10625)
+- [10/8/25](#10825)
+- [10/9/25](#10925)
 
 November <br>
 December <br>
@@ -81,6 +84,18 @@ December <br>
 | 99TK   | 5.8 × 10⁹ |
 | PT23   | 4.5 × 10⁹ |
 
-
-
 --End of Week--
+--Start of Week--
+
+# 10/6/25
+- streak a couple plates of PT23 from new glycerol stocks (started from single colony)
+
+# 10/8/25
+- pick 8 colonies, grow in 24 well plate
+- (grow in 3 mL broth each well) 
+
+# 10/9/25
+- dilute back to OD 0.2
+- 8 biological replicates with 3 technical replicates across 4 conditions (no phage, 10^3, 10^5, 10^7)
+- add FRS
+<img src="![IMG_6649](https://github.com/user-attachments/assets/2f04e643-2d8c-4bd5-8f8b-08fb4fa54a7c)" width="300"/>  </br>
