@@ -92,8 +92,10 @@ December <br>
 - streak a couple plates of PT23 from new glycerol stocks (started from single colony)
 
 # 10/8/25
-- pick 8 colonies, grow in 24 well plate
-- (grow in 3 mL broth each well) 
+- pick 8 colonies, grow in 24 well plate (grew in 2500 uL each well/2.5 mL)
+- Used loops to pick because couldn't find toothpicks, some of the loops kind of fell out and I didn't see any drops fly into the other wells or anything but maybe some microparticles did
+- put on shaker outside
+- Brandon + Claire colony PCR on ancestral PT23 + 99TK (from glycerol stocks) to confirm it is the correct strains
 
 # 10/9/25
 - dilute back to OD 0.2
