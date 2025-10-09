@@ -99,6 +99,12 @@ December <br>
 
 # 10/9/25
 - dilute back to OD 0.2
-- 8 biological replicates with 3 technical replicates across 4 conditions (no phage, 10^3, 10^5, 10^7)
-- add FRS </br>
+- 8 biological replicates with 3 technical replicates across 4 conditions (no phage, 10^3, 10^5, 10^7) - I added 10^-4, 10^-2, undiluted FRS respectively according to picture below: </br>
+
 <img src="https://github.com/user-attachments/assets/2f04e643-2d8c-4bd5-8f8b-08fb4fa54a7c" width="300"/>  </br>
+
+- cultures initially grew up to around OD 1.5 - 1.6
+- I had to dilute it alot, only pipetted around 10 uL culture into well w 190 uL KB to get it to around 0.2
+- Maybe a little bit of culture mixed when I ripped the tape off the bounced and kinda hit the lid and came out the sides
+- Final OD before phage mix in on black plate reader: 
+<img src="https://github.com/user-attachments/assets/e16211ce-eaea-42cf-b43d-164626ba72b3" width="350"/>  </br>
