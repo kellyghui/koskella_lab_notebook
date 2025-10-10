@@ -106,5 +106,5 @@ December <br>
 - cultures initially grew up to around OD 1.5 - 1.6
 - I had to dilute it alot, only pipetted around 10 uL culture into well w 190 uL KB to get it to around 0.2
 - Maybe a little bit of culture mixed when I ripped the tape off the bounced and kinda hit the lid and came out the sides
-- Final OD before phage mix in on black plate reader: 
+- Final OD before phage mix in on black plate reader: </br>
 <img src="https://github.com/user-attachments/assets/e16211ce-eaea-42cf-b43d-164626ba72b3" width="350"/>  </br>
