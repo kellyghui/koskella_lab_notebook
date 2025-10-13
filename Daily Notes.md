@@ -24,6 +24,11 @@ Week 3
 - [10/8/25](#10825)
 - [10/9/25](#10925)
 
+Week 4
+- [10/13/25](#101325)
+- [10/14/25](#101425)
+- [10/15/25](#101525)
+
 November <br>
 December <br>
 
@@ -108,3 +113,19 @@ December <br>
 - Maybe a little bit of culture mixed when I ripped the tape off the bounced and kinda hit the lid and came out the sides
 - Final OD before phage mix in on black plate reader: </br>
 <img src="https://github.com/user-attachments/assets/e16211ce-eaea-42cf-b43d-164626ba72b3" width="350"/>  </br>
+
+--End of Week-- 
+
+--Start of Week--
+
+# 10/13/25
+- Started O/N culture of PT23 for phage titer tomorrow
+- Streaked 2 99TK plates, to leave on counter for 2 days
+- Analyzed plate reader data from last week, check RBG senior thesis folder click this date
+
+# 10/14/25
+- Brandon, Claire phage titer on PT23
+
+# 10/15/25
+- Pick 8 99TK colonies 
+
