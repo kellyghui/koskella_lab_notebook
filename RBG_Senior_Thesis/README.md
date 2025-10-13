@@ -9,7 +9,8 @@ Nothing to look at yet..
 - 10^9 PFU stock
 
 ### Plate Setup:
-___ draw later
+<img width="626" height="438" alt="image" src="https://github.com/user-attachments/assets/951f4384-7513-441a-95a1-75cfae405111" />
+
 
 ### Averaged Technical Replicates Per Biological Replicate
 
@@ -47,6 +48,7 @@ ___ draw later
 | Plot 13 | Plot 14 | Plot 15 | Plot 16 |
 |---------|---------|---------|---------|
 | <img alt="Plot 13" src="https://github.com/user-attachments/assets/a18f61a1-37c2-4de8-ad3a-13dc2e7b308c" /> | <img alt="Plot 14" src="https://github.com/user-attachments/assets/50ac44a6-836b-44de-a0b7-75e0bcfba6f2" /> | <img alt="Plot 15" src="https://github.com/user-attachments/assets/e1daafc2-0a81-4ea9-982a-b07f5b72f6dc" /> | <img alt="image" src="https://github.com/user-attachments/assets/b3734c2f-6513-4918-ac83-838a5e823dca" /> |
+
 
 
 
