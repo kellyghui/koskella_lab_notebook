@@ -125,7 +125,10 @@ December <br>
 
 # 10/14/25
 - Brandon, Claire phage titer on PT23
+- Phage Titer: 10^9 PFU still
 
 # 10/15/25
-- Pick 8 99TK colonies 
+- Pick 8 99TK colonies, colonies were really tiny when left on counter for 2 days, but I picked them anyways
+- Next time, leave plates in incubator for a day then take them out for another day
+- Shaking rn 
 
