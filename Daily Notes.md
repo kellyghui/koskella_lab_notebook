@@ -130,5 +130,10 @@ December <br>
 # 10/15/25
 - Pick 8 99TK colonies, colonies were really tiny when left on counter for 2 days, but I picked them anyways
 - Next time, leave plates in incubator for a day then take them out for another day
-- Shaking rn 
+- Shaking
+
+# 10/16/25
+- Backdiluted 99TK, inoculated with phage to shake for 36 hours
+- 7 biological replicates with 3 technical replicates across 4 conditions (no phage, 10^3, 10^5, 10^7) - I added 10^-4, 10^-2, undiluted FRS respectively
+- Left one row blank with just KB
 
