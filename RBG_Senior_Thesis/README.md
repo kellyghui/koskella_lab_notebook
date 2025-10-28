@@ -1,5 +1,5 @@
-Nothing to look at yet..
-[10/09/2025](#10092025)
+[10/09/2025](#10092025) </br>
+[10/24/2025](#10242025)
 
 
 
@@ -40,6 +40,27 @@ Nothing to look at yet..
 | Plot 13 | Plot 14 | Plot 15 | Plot 16 |
 |---------|---------|---------|---------|
 | <img alt="Plot 13" src="https://github.com/user-attachments/assets/a18f61a1-37c2-4de8-ad3a-13dc2e7b308c" /> | <img alt="Plot 14" src="https://github.com/user-attachments/assets/50ac44a6-836b-44de-a0b7-75e0bcfba6f2" /> | <img alt="Plot 15" src="https://github.com/user-attachments/assets/e1daafc2-0a81-4ea9-982a-b07f5b72f6dc" /> | <img alt="Plot 16" src="https://github.com/user-attachments/assets/b3734c2f-6513-4918-ac83-838a5e823dca" /> |
+
+# 10/21/2025
+
+### Phage Titer
+- 10^9 PFU stock
+
+### Plate Setup:
+- row H has KB blank + phage
+
+
+# 10/24/2025
+
+### Phage Titer
+- 10^9 PFU stock (assumed from last week, but did not titer)
+
+### Plate Setup:
+- row H for KB blank + phage
+- 0 PFU has added phage buffer
+
+### Curves
+- Check under Notebooks
 
 
 
