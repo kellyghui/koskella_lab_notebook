@@ -1,10 +1,12 @@
 [10/09/2025](#10092025) </br>
-[10/24/2025](#10242025)
+[10/24/2025](#10242025) </br>
+[10/31/2025](#10312025)
 
 
 
 # 10/09/2025
 
+- PT23
 ### Phage Titer
 - 10^9 PFU stock
 
@@ -42,6 +44,7 @@
 | <img alt="Plot 13" src="https://github.com/user-attachments/assets/a18f61a1-37c2-4de8-ad3a-13dc2e7b308c" /> | <img alt="Plot 14" src="https://github.com/user-attachments/assets/50ac44a6-836b-44de-a0b7-75e0bcfba6f2" /> | <img alt="Plot 15" src="https://github.com/user-attachments/assets/e1daafc2-0a81-4ea9-982a-b07f5b72f6dc" /> | <img alt="Plot 16" src="https://github.com/user-attachments/assets/b3734c2f-6513-4918-ac83-838a5e823dca" /> |
 
 # 10/21/2025
+- 99TK
 
 ### Phage Titer
 - 10^9 PFU stock
@@ -51,6 +54,7 @@
 
 
 # 10/24/2025
+- 99TK
 
 ### Phage Titer
 - 10^9 PFU stock (assumed from last week, but did not titer)
@@ -58,11 +62,23 @@
 ### Plate Setup:
 - row H for KB blank + phage
 - 0 PFU has added phage buffer
+<img width="526" height="338" alt="image" src="https://github.com/user-attachments/assets/53d9041a-455c-4689-b0d6-0b338b3c6878" />
+
 
 ### Curves
 - Check under Notebooks
 
+# 10/31/2025
+- PT23
 
+### Phage Titer
+- 10^9 PFU stock
+
+### Plate Setup:
+- Same as 10/24
+
+### Curves
+- Check under Notebooks
 
 
 
