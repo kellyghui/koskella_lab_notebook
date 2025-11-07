@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import scipy.stats as stats
 import numpy as np
 import plotly.express as px
+import string
 
 def clean_and_transpose(df, start_row=32, end_row=106):
     df = df.iloc[start_row:end_row].T
