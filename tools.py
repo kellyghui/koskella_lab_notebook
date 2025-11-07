@@ -61,3 +61,60 @@ def plot_with_r_squared(df, x_col, y_col, lower = 0, upper=20, decimals=4, title
     plt.ylabel(f"OD at {y_col}")
     plt.title(title)
     plt.show()
+
+def plot_biol_rep(df, num_bio_rep=8, col_num=3): 
+    letters = list(string.ascii_uppercase[:num_bio_rep])
+
+    for letter in letters:
+        # Select columns that begin with this letter (e.g., "A")
+        table = df.filter(regex=rf'^{letter}')
+
+        if table.empty:
+            print(f"Warning: No columns found for replicate {letter}")
+            continue
+        
+        table_avg = table.groupby(np.arange(table.shape[1]) // col_num, axis=1).mean()
+        
+        plot_timeseries(table_avg, title=f'Biological Replicate - {letter}', ylabel="Technical Replicate Mean")
+
+def plot_dose_response(df, pfu_values, num_tech_reps=3):
+
+    df_round = df.copy()
+    df_round.index = np.round(df_round.index).astype(int)
+
+    df_hourly = df_round.loc[df_round.index.isin(range(0, 16))]
+    df_hourly = df_hourly.groupby(df_hourly.index).first()
+
+    # Convert PFU to log10 values for x-axis
+    x_vals = [0 if p == 0 else np.log10(p) for p in pfu_values]
+
+    bio_reps = list(string.ascii_uppercase)[:df_hourly.shape[1] // num_tech_reps]
+
+    for hour, row in df_hourly.iterrows():
+        avg_dict = {}
+
+        for letter in bio_reps:
+            # Extract technical replicates for this biological replicate
+            table = df_hourly.filter(regex=rf'^{letter}')
+            if table.empty:
+                continue
+
+            # Average in groups of `num_tech_reps`
+            table_avg = pd.DataFrame({
+                i: table.iloc[:,i*num_tech_reps:(i+1)*num_tech_reps].mean(axis=1)
+                for i in range(len(pfu_values))
+            })
+
+            avg_dict[letter] = table_avg.loc[hour].values
+
+        # Plot
+        plt.figure(figsize=(8,6))
+        for letter, vals in avg_dict.items():
+            plt.plot(x_vals, vals, marker='o', label=letter)
+
+        plt.xlabel('log10(PFU)')
+        plt.ylabel('OD₅₀')
+        plt.title(f'OD₅₀ vs log(PFU) at Hour {hour}')
+        plt.legend(title='Biological Replicates', bbox_to_anchor=(1.05, 1))
+        plt.grid(True)
+        plt.show()
