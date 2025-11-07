@@ -29,7 +29,12 @@ Week 4
 - [10/14/25](#101425)
 - [10/15/25](#101525)
 
-November <br>
+### November <br>
+
+Week 7
+- [11/06/25](#110625)
+- [11/07/25](#110725)
+
 December <br>
 
 
@@ -136,4 +141,17 @@ December <br>
 - Backdiluted 99TK, inoculated with phage to shake for 36 hours
 - 7 biological replicates with 3 technical replicates across 4 conditions (no phage, 10^3, 10^5, 10^7) - I added 10^-4, 10^-2, undiluted FRS respectively
 - Left one row blank with just KB
+
+--Start of Week--
+
+# 11/04/25
+- Phage Titer: 10^8 PFU
+
+# 11/06/25
+- Started P0 Passage, put on shaker
+
+# 11/07/25
+- Made PT23 O/N, poured square + round plates
+
+--End of Week-- 
 
