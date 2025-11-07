@@ -149,6 +149,7 @@ December <br>
 
 # 11/06/25
 - Started P0 Passage, put on shaker
+- Note that 1250 uL microchannel overshot the volume, so each well is slightly more than the listed amounts but still internally consistent
 
 # 11/07/25
 - Made PT23 O/N, poured square + round plates
