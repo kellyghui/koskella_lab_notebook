@@ -76,7 +76,7 @@ def plot_biol_rep(df, num_bio_rep=8, col_num=3):
         
         table_avg = table.groupby(np.arange(table.shape[1]) // col_num, axis=1).mean()
         
-        plot_timeseries(table_avg, title=f'Biological Replicate - {letter}', ylabel="Technical Replicate Mean")
+        plot_timeseries(table_avg, title=f'Biological Replicate - {letter}')
 
 def plot_dose_response(df, pfu_values, num_tech_reps=3):
 
