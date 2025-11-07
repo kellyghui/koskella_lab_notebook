@@ -10,6 +10,9 @@
 
 ### Plate Set-up
 ![IMG_6952](https://github.com/user-attachments/assets/dc475240-c97d-453e-b207-e64853ccfdfe)
+- 1500 uL KB in every well
+- 1470 uL KB + 30 uL culture for 1st two cols
+- 1470 uL KB + 30 uL culture + 15 uL phage for last 2 cols
 
 ### Procedure
 1. Pipette in all the KB
