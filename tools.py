@@ -78,19 +78,14 @@ def plot_biol_rep(df, num_bio_rep=8, col_num=3):
         
         plot_timeseries(table_avg, title=f'Biological Replicate - {letter}')
 
-def plot_dose_response(df, pfu_values, num_tech_reps=3):
-
-    df_round = df.copy()
-    df_round.index = np.round(df_round.index).astype(int)
-
-    df_hourly = df_round.loc[df_round.index.isin(range(0, 16))]
+def plot_dose_response(df, pfu, num_tech_reps=3):
+    df.index = np.round(df.index).astype(int)
+    df_hourly = df.loc[df.index.isin(range(0, 16))]
     df_hourly = df_hourly.groupby(df_hourly.index).first()
-
-    # Convert PFU to log10 values for x-axis
-    x_vals = [0 if p == 0 else np.log10(p) for p in pfu_values]
-
+    
+    x_vals = [0 if p==0 else np.log10(p) for p in pfu]
     bio_reps = list(string.ascii_uppercase)[:df_hourly.shape[1] // num_tech_reps]
-
+    
     for hour, row in df_hourly.iterrows():
         avg_dict = {}
 
