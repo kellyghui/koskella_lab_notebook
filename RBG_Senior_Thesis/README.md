@@ -1,12 +1,13 @@
 [10/09/2025](#10092025) </br>
 [10/24/2025](#10242025) </br>
 [10/31/2025](#10312025)
+[11/02/2025](#1122025)
 
 
 
 # 10/09/2025
 
-- PT23
+- PT23 initial susceptibility test
 ### Phage Titer
 - 10^9 PFU stock
 
@@ -44,7 +45,7 @@
 | <img alt="Plot 13" src="https://github.com/user-attachments/assets/a18f61a1-37c2-4de8-ad3a-13dc2e7b308c" /> | <img alt="Plot 14" src="https://github.com/user-attachments/assets/50ac44a6-836b-44de-a0b7-75e0bcfba6f2" /> | <img alt="Plot 15" src="https://github.com/user-attachments/assets/e1daafc2-0a81-4ea9-982a-b07f5b72f6dc" /> | <img alt="Plot 16" src="https://github.com/user-attachments/assets/b3734c2f-6513-4918-ac83-838a5e823dca" /> |
 
 # 10/21/2025
-- 99TK
+- 99TK initial susceptibility test 
 
 ### Phage Titer
 - 10^9 PFU stock
@@ -79,6 +80,23 @@
 
 ### Curves
 - Check under Notebooks
+
+
+# 11/2/2025
+- start passaging experiment
+
+### Phage Titer
+- 10^8 PFU stock
+
+### Plate Setup:
+
+![IMG_6952](https://github.com/user-attachments/assets/3c02a8b3-b091-4ded-8200-ea19a083a958)
+- 1500 uL KB in every well
+- 1470 uL KB + 30 uL culture for 1st two cols
+- 1470 uL KB + 30 uL culture + 15 uL phage for last 2 cols
+
+
+
 
 
 
