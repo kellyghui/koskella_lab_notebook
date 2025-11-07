@@ -50,3 +50,14 @@ Simple Functions for data visualization
 - returns the strength and direction of the linear relationship between x and y
 
 **plot_with_r_squared(df, x_col, y_col, lower = 0, upper=20, decimals=4, title = None)**
+
+**plot_biol_rep(df, num_bio_rep=8, num_tech_reps=3)**
+- According to plate setup from RBG_Senior_Thesis 
+- num_bio_rep: number of biological replicates (each biological replicate is one row of the plate)
+- num_tech_reps: number of technical replicates (default is 3 technical replicates per biol rep, with tech replicates being every 3 columns of 96 well)
+- Returns one plot for each biological replicate containing one line for each phage concentration (technical reps averaged)
+
+ **plot_dose_response(df, pfu, num_tech_reps=3)**
+ - Creates dose-response curves (OD vs log(PFU)) for each hour 0–15, one line per biological replicate 
+ - Input pfu ranges like so - [0, 1e3, 1e5, 1e7]
+ - num_tech_reps: default is 3 technical replicates per biol rep, with tech replicates being every 3 columns of 96 well
