@@ -82,8 +82,8 @@
 - Check under Notebooks
 
 
-# 11/2/2025
-- start passaging experiment
+# 11/6/2025
+- start P0 (passaging)
 
 ### Phage Titer
 - 10^8 PFU stock
@@ -91,9 +91,7 @@
 ### Plate Setup:
 
 ![IMG_6952](https://github.com/user-attachments/assets/3c02a8b3-b091-4ded-8200-ea19a083a958)
-- 1500 uL KB in every well
-- 1470 uL KB + 30 uL culture for 1st two cols
-- 1470 uL KB + 30 uL culture + 15 uL phage for last 2 cols
+
 
 
 
