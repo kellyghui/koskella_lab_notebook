@@ -98,7 +98,7 @@ def plot_dose_response(df, pfu, num_tech_reps=3):
             # Average in groups of `num_tech_reps`
             table_avg = pd.DataFrame({
                 i: table.iloc[:,i*num_tech_reps:(i+1)*num_tech_reps].mean(axis=1)
-                for i in range(len(pfu_values))
+                for i in range(len(pfu))
             })
 
             avg_dict[letter] = table_avg.loc[hour].values
