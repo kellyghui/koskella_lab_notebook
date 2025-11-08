@@ -15,8 +15,15 @@
         └── 3/14/2025
 ├── RBG_Senior_Thesis
     ├── Final Thesis Proposal
-    ├── ..
-    └── ..
+    ├── Protocols for Passaging Exp
+    └── Notebooks
+        ├── RBG Growth Data
+            ├── 10/09/25 (PT23)
+            ├── 10/17/25 (99TK)
+            ├── 10/24/25 (99TK)
+            └── 10/30/25 (PT23)
+        ├── IC50 Curves
+            └── 10/30/25
 ├── Daily Lab Notes
 └── Python Functions for Growth Curve Analysis
 ```
