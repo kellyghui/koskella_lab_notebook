@@ -22,11 +22,11 @@
 5. Aero seal the lid
 6. Place on shaker
 
-### Passaging (Day 2 on)
+## Passaging (Day 2 on)
 - 1500 uL KB in every well
 - 1485 uL KB + 15 uL culture passaged from each previous well
 
-### Passage collection (odd passaging days)
+## Passage collection (odd passaging days)
 
 ### Materials
 1. 24 2 mL tubes (glycerol stocks)
