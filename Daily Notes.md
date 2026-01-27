@@ -154,5 +154,32 @@ December <br>
 # 11/07/25
 - Made PT23 O/N, poured square + round plates
 
+# 11/08/25
+- Collect P0
+
 --End of Week-- 
+# 11/10/25
+- P2
+
+# 11/12/25
+- P3, collect P2
+
+# 11/14/25
+- P4
+
+# 11/16/25
+- P5
+
+# 11/18/25
+- P6
+
+# 11/20/25
+- Collect, look for phage
+- Yes phage: PF1, PF4, PF5, PF6, KF2, KF5
+
+# 11/26/25
+- Redo results from 11/20 
+- Yes phage: PF2, PF4, PF5, PF6, KF2, KF5
+
+
 
