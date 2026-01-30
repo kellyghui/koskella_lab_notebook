@@ -182,4 +182,13 @@ December <br>
 - Yes phage: PF2, PF4, PF5, PF6, KF2, KF5
 
 
+-- Spring Semester --
+
+# 1/29/25
+- Amplified phage today!!!
+- Claire started this backdilution stuff at somewhere maybe 9 AM
+- It grew up all the way until 12:30 PM
+- Then I spiked in the phage, and it did not become clear until maybe 7 PM
+
+
 
