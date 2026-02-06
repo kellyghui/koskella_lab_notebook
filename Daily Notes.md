@@ -202,3 +202,6 @@ December <br>
 - Plated the -6,-7,-8 dilutions for 99TK
 - plated K1 from P6
 - got sick so moved the rest to weekend
+
+# 2/6/26
+- picked 6 PF1 colonies into 2300 uL KB shaking
