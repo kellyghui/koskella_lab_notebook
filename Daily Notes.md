@@ -192,10 +192,13 @@ December <br>
 
 --Start of Week--
 
-# 2/1/25
+# 2/1/26
 - Phage is currently at 10^10 PFU/mL, I counted the 10^-8 plates
 - Starting a dilution series today
 - From 9/23/25, 99TK: Plated the -6,-7,-8 dilutions and PT23: Plated the -4,-5,-6 dilutions
-- plated PF1 today
+- plated PF1 today from P6
 
-
+# 2/5/26
+- Plated the -6,-7,-8 dilutions for 99TK
+- plated K1 from P6
+- got sick so moved the rest to weekend
