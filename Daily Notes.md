@@ -205,3 +205,7 @@ December <br>
 
 # 2/6/26
 - picked 6 PF1 colonies into 2300 uL KB shaking
+
+# 2/7/26
+- Used same plate setup as last fall/spring to do RBG assay for PF1 P6
+- Row H has nothing because i only picked 6 fucking colonies instead of 7
