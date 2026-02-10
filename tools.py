@@ -74,7 +74,7 @@ def plot_biol_rep(df, num_bio_rep=8, col_num=3):
             print(f"Warning: No columns found for replicate {letter}")
             continue
         
-        table_avg = table.groupby(np.arange(table.shape[1]) // col_num, axis=1).mean()
+        table_avg = table.groupby(np.arange(table.shape[1]) // col_num).mean()
         
         plot_timeseries(table_avg, title=f'Biological Replicate - {letter}')
 
