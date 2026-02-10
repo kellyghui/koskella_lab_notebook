@@ -210,3 +210,8 @@ Week 7
 # 2/7/26
 - Used same plate setup as last fall/spring to do RBG assay for PF1 P6
 - Row H has nothing because i only picked 6 fucking colonies instead of 7
+
+# 2/9/26
+- Just did backdilutions for K1 P6
+- seems like if the og OD is around 0.9 doing 15 + 185 is ok
+- if the OD is around 0.7-0.8, doing 25 + 175 is ok
