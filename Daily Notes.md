@@ -215,3 +215,7 @@ Week 7
 - Just did backdilutions for K1 P6
 - seems like if the og OD is around 0.9 doing 15 + 185 is ok
 - if the OD is around 0.7-0.8, doing 25 + 175 is ok
+
+# 2/10/26
+- data from PF1 looks weird, make sure plate is the correct orientation
+- starting PF1 again, make sure to add phage buffer into first 3 cols 
