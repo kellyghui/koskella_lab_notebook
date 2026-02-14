@@ -218,4 +218,9 @@ Week 7
 
 # 2/10/26
 - data from PF1 looks weird, make sure plate is the correct orientation
-- starting PF1 again, make sure to add phage buffer into first 3 cols 
+- starting PF1 again, make sure to add phage buffer into first 3 cols
+
+# 2/14/26
+- Phage PFU is still at 10^10
+- for the plate setup, i did phage buffer, 10^6, 10^8, and 10^10 conc
+- counted 12 and 17 colonies on the 10^8 dilution
