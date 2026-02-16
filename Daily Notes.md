@@ -170,6 +170,7 @@ Week 7
 
 # 11/16/25
 - P5
+- Yes Phage: PF1, PF2, PF3, PF4, PF5, PF6, KF2, KF5
 
 # 11/18/25
 - P6
