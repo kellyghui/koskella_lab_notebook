@@ -100,11 +100,11 @@
 
 ## Dose-Response Curves
 
-| Plot 1 | Plot 2 | Plot 3 | Plot 4 |
+| Plot 1 (phage) | Plot 2 (phage) | Plot 3 | Plot 4 (phage) |
 |--------|--------|--------|--------|
 | <img width="472" height="361" alt="Screenshot 2026-04-09 at 5 40 28 PM" src="https://github.com/user-attachments/assets/12047e42-03e5-4744-b1ba-d233a904b032" /> | <img width="477" height="371" alt="Screenshot 2026-04-09 at 5 40 44 PM" src="https://github.com/user-attachments/assets/baacfcd1-0813-4438-8c9d-3ef10b8d3309" />| <img width="463" height="372" alt="Screenshot 2026-04-09 at 5 41 22 PM" src="https://github.com/user-attachments/assets/b6194cb2-8c74-4a60-ab0a-029b069d2869" /> | <img width="477" height="369" alt="Screenshot 2026-04-09 at 5 41 39 PM" src="https://github.com/user-attachments/assets/53ec1f4e-e9f8-48d8-ada4-bd35deee4852" />|
 
-| Plot 5 | Plot 6 | Plot 7 |
+| Plot 5 (phage) | Plot 6 (phage) | Plot 7 |
 |--------|--------|--------|
 | <img width="452" height="361" alt="Screenshot 2026-04-09 at 5 42 20 PM" src="https://github.com/user-attachments/assets/95450f43-087c-49ae-9b0b-9ca0ba97b555" /> | <img width="473" height="361" alt="Screenshot 2026-04-09 at 5 42 35 PM" src="https://github.com/user-attachments/assets/66ba824c-44dd-49a2-b163-62cc323ed950" />| <img width="465" height="367" alt="Screenshot 2026-04-09 at 5 43 23 PM" src="https://github.com/user-attachments/assets/aa6c5db1-80c1-464a-ad1f-2336083749b5" /> |
 
@@ -120,11 +120,11 @@
 
 ## Dose-response curves
 
-| Plot 1 | Plot 2 | Plot 3 | Plot 4 |
+| Plot 1 | Plot 2 (phage) | Plot 3 | Plot 4 |
 |--------|--------|--------|--------|
 | <img width="488" height="354" alt="Screenshot 2026-04-10 at 9 32 18 AM" src="https://github.com/user-attachments/assets/914eaa87-0308-422b-b389-c148c57f4f14" /> | <img width="462" height="366" alt="Screenshot 2026-04-10 at 9 32 42 AM" src="https://github.com/user-attachments/assets/226c6f93-f8a5-4415-8a1b-cd0b0b3472b1" />| <img width="458" height="366" alt="Screenshot 2026-04-10 at 9 33 56 AM" src="https://github.com/user-attachments/assets/13db5169-fbe6-4a23-ba07-8c602ab09b42" /> | <img width="468" height="358" alt="Screenshot 2026-04-10 at 9 34 19 AM" src="https://github.com/user-attachments/assets/c1d3b865-6e27-4210-b18c-6e60c7405005" />|
 
-| Plot 5 | Plot 6 | Plot 7 |
+| Plot 5 (phage) | Plot 6 | Plot 7 |
 |--------|--------|--------|
 | <img width="457" height="360" alt="Screenshot 2026-04-10 at 9 34 32 AM" src="https://github.com/user-attachments/assets/b15c561b-35de-458a-8e1d-dd6fd13dd9f1" /> | <img width="460" height="366" alt="Screenshot 2026-04-10 at 9 34 52 AM" src="https://github.com/user-attachments/assets/a8ee2692-f77e-4a63-8112-1364344a700d" />| <img width="457" height="364" alt="Screenshot 2026-04-10 at 9 35 15 AM" src="https://github.com/user-attachments/assets/739b3773-1d87-4869-9c6c-487e7a210e02" /> |
 
