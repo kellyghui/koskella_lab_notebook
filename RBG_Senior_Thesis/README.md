@@ -2,7 +2,8 @@
 [10/24/2025](#10242025) </br>
 [10/31/2025](#10312025) </br>
 [11/02/2025](#1122025) </br>
-[04/03/26](#040326)
+[03/07/26](#030726) </br>
+[04/03/26](#040326) </br>
 [04/09/26](#040926)
 
 
@@ -94,6 +95,16 @@
 
 ![IMG_6952](https://github.com/user-attachments/assets/3c02a8b3-b091-4ded-8200-ea19a083a958)
 
+# 03/07/26
+- PT23 PF4 P0
+
+## Phage titer
+- 10^10 stock
+
+## Plate Setup
+- 10^4, 10^6, 10^8
+- I did around 70 colonies for just the one PF4 stock at P0
+
 # 04/03/26
 
 ### PT23 P6
@@ -140,7 +151,7 @@
 <img width="552" height="367" alt="Screenshot 2026-04-10 at 9 35 56 AM" src="https://github.com/user-attachments/assets/952579ad-29eb-47ca-863b-f4c290028b78" />
 
 ## by phage presence
-<img width="645" height="385" alt="Screenshot 2026-04-10 at 10 04 09 AM" src="https://github.com/user-attachments/assets/1843af12-8559-41f9-bfa9-991711cdf795" />
+<img width="645" height="385" alt="Screenshot 2026-04-10 at 10 04 09 AM" src="https://github.com/user-attachments/assets/1843af12-8559-41f9-bfa9-991711cdf795"/>
 
 
 
