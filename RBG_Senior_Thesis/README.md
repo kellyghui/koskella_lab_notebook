@@ -123,7 +123,6 @@
 <img width="658" height="388" alt="Screenshot 2026-04-09 at 5 43 51 PM" src="https://github.com/user-attachments/assets/28c49cf1-4bcc-47fa-993d-23006758a719" />
 
 ## Overlay
-<img width="512" height="376" alt="Screenshot 2026-04-09 at 7 15 34 PM" src="https://github.com/user-attachments/assets/fc5cbde4-2b76-4fd8-8302-fdf331aed48b" />
 <img width="551" height="370" alt="Screenshot 2026-04-10 at 10 53 21 AM" src="https://github.com/user-attachments/assets/e564e0cd-1712-4865-b255-a3d2f7e04a1b" />
 
 
