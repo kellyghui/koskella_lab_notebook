@@ -115,6 +115,11 @@
 <img width="512" height="376" alt="Screenshot 2026-04-09 at 7 15 34 PM" src="https://github.com/user-attachments/assets/fc5cbde4-2b76-4fd8-8302-fdf331aed48b" />
 <img width="555" height="372" alt="Screenshot 2026-04-09 at 7 15 20 PM" src="https://github.com/user-attachments/assets/0f610b2e-3f54-48cc-bd4a-2ad21cd5d589" />
 
+## By phage presence
+<img width="640" height="385" alt="Screenshot 2026-04-10 at 10 03 53 AM" src="https://github.com/user-attachments/assets/93b23d44-5961-4c87-b256-74e4f88387ff" />
+<img width="654" height="385" alt="Screenshot 2026-04-10 at 10 03 40 AM" src="https://github.com/user-attachments/assets/2791584d-10f2-4989-81f5-85e582b168fb" />
+
+
 # 04/09/26
 ### 99TK P6
 
@@ -134,6 +139,9 @@
 
 ## Overlay (kinda)
 <img width="552" height="367" alt="Screenshot 2026-04-10 at 9 35 56 AM" src="https://github.com/user-attachments/assets/952579ad-29eb-47ca-863b-f4c290028b78" />
+
+## by phage presence
+<img width="645" height="385" alt="Screenshot 2026-04-10 at 10 04 09 AM" src="https://github.com/user-attachments/assets/1843af12-8559-41f9-bfa9-991711cdf795" />
 
 
 
