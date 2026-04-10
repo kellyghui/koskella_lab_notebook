@@ -116,7 +116,6 @@
 <img width="555" height="372" alt="Screenshot 2026-04-09 at 7 15 20 PM" src="https://github.com/user-attachments/assets/0f610b2e-3f54-48cc-bd4a-2ad21cd5d589" />
 
 ## By phage presence
-<img width="640" height="385" alt="Screenshot 2026-04-10 at 10 03 53 AM" src="https://github.com/user-attachments/assets/93b23d44-5961-4c87-b256-74e4f88387ff" />
 <img width="654" height="385" alt="Screenshot 2026-04-10 at 10 03 40 AM" src="https://github.com/user-attachments/assets/2791584d-10f2-4989-81f5-85e582b168fb" />
 
 
