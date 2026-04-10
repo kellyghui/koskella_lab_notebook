@@ -124,7 +124,8 @@
 
 ## Overlay
 <img width="512" height="376" alt="Screenshot 2026-04-09 at 7 15 34 PM" src="https://github.com/user-attachments/assets/fc5cbde4-2b76-4fd8-8302-fdf331aed48b" />
-<img width="555" height="372" alt="Screenshot 2026-04-09 at 7 15 20 PM" src="https://github.com/user-attachments/assets/0f610b2e-3f54-48cc-bd4a-2ad21cd5d589" />
+<img width="551" height="370" alt="Screenshot 2026-04-10 at 10 53 21 AM" src="https://github.com/user-attachments/assets/e564e0cd-1712-4865-b255-a3d2f7e04a1b" />
+
 
 ## By phage presence
 <img width="654" height="385" alt="Screenshot 2026-04-10 at 10 03 40 AM" src="https://github.com/user-attachments/assets/2791584d-10f2-4989-81f5-85e582b168fb" />
