@@ -2,6 +2,7 @@
 [10/24/2025](#10242025) </br>
 [10/31/2025](#10312025) </br>
 [11/02/2025](#1122025) </br>
+[04/03/26](#040326)
 [04/09/26](#040926)
 
 
@@ -93,7 +94,7 @@
 
 ![IMG_6952](https://github.com/user-attachments/assets/3c02a8b3-b091-4ded-8200-ea19a083a958)
 
-# 04/09/26
+# 04/03/26
 
 ### PT23 P6
 
@@ -113,6 +114,26 @@
 ## Overlay
 <img width="512" height="376" alt="Screenshot 2026-04-09 at 7 15 34 PM" src="https://github.com/user-attachments/assets/fc5cbde4-2b76-4fd8-8302-fdf331aed48b" />
 <img width="555" height="372" alt="Screenshot 2026-04-09 at 7 15 20 PM" src="https://github.com/user-attachments/assets/0f610b2e-3f54-48cc-bd4a-2ad21cd5d589" />
+
+# 04/09/26
+### 99TK P6
+
+## Dose-response curves
+
+| Plot 1 | Plot 2 | Plot 3 | Plot 4 |
+|--------|--------|--------|--------|
+| <img width="488" height="354" alt="Screenshot 2026-04-10 at 9 32 18 AM" src="https://github.com/user-attachments/assets/914eaa87-0308-422b-b389-c148c57f4f14" /> | <img width="462" height="366" alt="Screenshot 2026-04-10 at 9 32 42 AM" src="https://github.com/user-attachments/assets/226c6f93-f8a5-4415-8a1b-cd0b0b3472b1" />| <img width="458" height="366" alt="Screenshot 2026-04-10 at 9 33 56 AM" src="https://github.com/user-attachments/assets/13db5169-fbe6-4a23-ba07-8c602ab09b42" /> | <img width="468" height="358" alt="Screenshot 2026-04-10 at 9 34 19 AM" src="https://github.com/user-attachments/assets/c1d3b865-6e27-4210-b18c-6e60c7405005" />|
+
+| Plot 5 | Plot 6 | Plot 7 |
+|--------|--------|--------|
+| <img width="457" height="360" alt="Screenshot 2026-04-10 at 9 34 32 AM" src="https://github.com/user-attachments/assets/b15c561b-35de-458a-8e1d-dd6fd13dd9f1" /> | <img width="460" height="366" alt="Screenshot 2026-04-10 at 9 34 52 AM" src="https://github.com/user-attachments/assets/a8ee2692-f77e-4a63-8112-1364344a700d" />| <img width="457" height="364" alt="Screenshot 2026-04-10 at 9 35 15 AM" src="https://github.com/user-attachments/assets/739b3773-1d87-4869-9c6c-487e7a210e02" /> |
+
+
+## IC50 distribution
+<img width="648" height="385" alt="Screenshot 2026-04-10 at 9 31 10 AM" src="https://github.com/user-attachments/assets/e3ddced5-e687-4448-8185-c8753a4a19e0" />
+
+## Overlay (kinda)
+<img width="552" height="367" alt="Screenshot 2026-04-10 at 9 35 56 AM" src="https://github.com/user-attachments/assets/952579ad-29eb-47ca-863b-f4c290028b78" />
 
 
 
