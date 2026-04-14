@@ -111,9 +111,13 @@
 
 ## Dose-Response Curves
 
-| Plot 1 (phage) | Plot 2 (phage) | Plot 3 | Plot 4 (phage) |
-|--------|--------|--------|--------|
-| <img width="696" height="361" alt="Screenshot 2026-04-13 at 5 59 27 PM" src="https://github.com/user-attachments/assets/53e35757-de2b-4e8a-b357-e75cb57e85b0" /> | <img width="696" height="363" alt="Screenshot 2026-04-13 at 5 59 48 PM" src="https://github.com/user-attachments/assets/42ccd01c-c4b1-4cea-82cd-e6b3cf4f2728" />| <img width="683" height="360" alt="Screenshot 2026-04-13 at 6 00 06 PM" src="https://github.com/user-attachments/assets/6802dd31-9444-4adc-8d24-278e17112765" /> | <img width="678" height="359" alt="Screenshot 2026-04-13 at 6 00 25 PM" src="https://github.com/user-attachments/assets/668a1a1e-0279-4902-aa66-0287f6be89a1" />| 
+| Plot 1 (phage) | Plot 2 (phage) | 
+|--------|--------|
+| <img width="696" height="361" alt="Screenshot 2026-04-13 at 5 59 27 PM" src="https://github.com/user-attachments/assets/53e35757-de2b-4e8a-b357-e75cb57e85b0" /> | <img width="696" height="363" alt="Screenshot 2026-04-13 at 5 59 48 PM" src="https://github.com/user-attachments/assets/42ccd01c-c4b1-4cea-82cd-e6b3cf4f2728" />|
+
+| Plot 3 | Plot 4 (phage) |
+|--------|--------|
+| <img width="683" height="360" alt="Screenshot 2026-04-13 at 6 00 06 PM" src="https://github.com/user-attachments/assets/6802dd31-9444-4adc-8d24-278e17112765" /> | <img width="678" height="359" alt="Screenshot 2026-04-13 at 6 00 25 PM" src="https://github.com/user-attachments/assets/668a1a1e-0279-4902-aa66-0287f6be89a1" />| 
 
 | Plot 5 (phage) | Plot 6 (phage) | Plot 7 |
 |--------|--------|--------|
@@ -122,12 +126,6 @@
 ## IC-50
 <img width="658" height="388" alt="Screenshot 2026-04-09 at 5 43 51 PM" src="https://github.com/user-attachments/assets/28c49cf1-4bcc-47fa-993d-23006758a719" />
 
-## Overlay
-<img width="551" height="370" alt="Screenshot 2026-04-10 at 10 53 21 AM" src="https://github.com/user-attachments/assets/e564e0cd-1712-4865-b255-a3d2f7e04a1b" />
-
-
-## By phage presence
-<img width="654" height="385" alt="Screenshot 2026-04-10 at 10 03 40 AM" src="https://github.com/user-attachments/assets/2791584d-10f2-4989-81f5-85e582b168fb" />
 
 
 # 04/09/26
@@ -147,11 +145,7 @@
 ## IC50 distribution
 <img width="648" height="385" alt="Screenshot 2026-04-10 at 9 31 10 AM" src="https://github.com/user-attachments/assets/e3ddced5-e687-4448-8185-c8753a4a19e0" />
 
-## Overlay (kinda)
-<img width="552" height="367" alt="Screenshot 2026-04-10 at 9 35 56 AM" src="https://github.com/user-attachments/assets/952579ad-29eb-47ca-863b-f4c290028b78" />
 
-## by phage presence
-<img width="645" height="385" alt="Screenshot 2026-04-10 at 10 04 09 AM" src="https://github.com/user-attachments/assets/1843af12-8559-41f9-bfa9-991711cdf795"/>
 
 
 
