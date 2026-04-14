@@ -133,9 +133,13 @@
 
 ## Dose-response curves
 
-| Plot 1 | Plot 2 (phage) | Plot 3 | Plot 4 |
-|--------|--------|--------|--------|
-| <img width="669" height="357" alt="Screenshot 2026-04-13 at 6 02 04 PM" src="https://github.com/user-attachments/assets/3fcc7c32-7757-4517-847a-0e7965624610" /> | <img width="702" height="365" alt="Screenshot 2026-04-13 at 6 02 20 PM" src="https://github.com/user-attachments/assets/853562f7-1738-4f78-8f05-407ba11d20fe" />| <img width="683" height="357" alt="Screenshot 2026-04-13 at 6 02 39 PM" src="https://github.com/user-attachments/assets/7fe2db1d-f061-482b-9ac7-ad7b5f0210ea" /> | <img width="685" height="359" alt="Screenshot 2026-04-13 at 6 03 07 PM" src="https://github.com/user-attachments/assets/9b8870d2-00c9-477c-a681-f62c912a6b47" />|
+| Plot 1 | Plot 2 (phage) |
+|--------|--------|
+| <img width="669" height="357" alt="Screenshot 2026-04-13 at 6 02 04 PM" src="https://github.com/user-attachments/assets/3fcc7c32-7757-4517-847a-0e7965624610" /> | <img width="702" height="365" alt="Screenshot 2026-04-13 at 6 02 20 PM" src="https://github.com/user-attachments/assets/853562f7-1738-4f78-8f05-407ba11d20fe" />|
+
+| Plot 3 | Plot 4 |
+|--------|--------|
+| <img width="683" height="357" alt="Screenshot 2026-04-13 at 6 02 39 PM" src="https://github.com/user-attachments/assets/7fe2db1d-f061-482b-9ac7-ad7b5f0210ea" /> | <img width="685" height="359" alt="Screenshot 2026-04-13 at 6 03 07 PM" src="https://github.com/user-attachments/assets/9b8870d2-00c9-477c-a681-f62c912a6b47" />|
 
 | Plot 5 (phage) | Plot 6 | Plot 7 |
 |--------|--------|--------|
