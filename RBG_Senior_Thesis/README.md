@@ -113,15 +113,15 @@
 
 | Plot 1 (phage) | Plot 2 (phage) | 
 |--------|--------|
-| <img width="696" height="361" alt="Screenshot 2026-04-13 at 5 59 27 PM" src="https://github.com/user-attachments/assets/53e35757-de2b-4e8a-b357-e75cb57e85b0" /> | <img width="696" height="363" alt="Screenshot 2026-04-13 at 5 59 48 PM" src="https://github.com/user-attachments/assets/42ccd01c-c4b1-4cea-82cd-e6b3cf4f2728" />|
+| <img width="568" height="354" alt="Screenshot 2026-04-15 at 5 10 35 PM" src="https://github.com/user-attachments/assets/c45757ec-f67f-4b99-8664-02ce3144c942" /> | <img width="569" height="365" alt="Screenshot 2026-04-15 at 5 10 52 PM" src="https://github.com/user-attachments/assets/30f88d39-2392-4ef0-9bee-9c3f51624af9" />|
 
 | Plot 3 | Plot 4 (phage) |
 |--------|--------|
-| <img width="683" height="360" alt="Screenshot 2026-04-13 at 6 00 06 PM" src="https://github.com/user-attachments/assets/6802dd31-9444-4adc-8d24-278e17112765" /> | <img width="678" height="359" alt="Screenshot 2026-04-13 at 6 00 25 PM" src="https://github.com/user-attachments/assets/668a1a1e-0279-4902-aa66-0287f6be89a1" />| 
+|<img width="572" height="363" alt="Screenshot 2026-04-15 at 5 11 14 PM" src="https://github.com/user-attachments/assets/2471e7d9-04d5-4059-a845-c3e7a33ad662" /> | <img width="573" height="357" alt="Screenshot 2026-04-15 at 5 11 30 PM" src="https://github.com/user-attachments/assets/0d6614d6-612f-4a1b-8f0e-230333dbf2a0" />| 
 
 | Plot 5 (phage) | Plot 6 (phage) | Plot 7 |
 |--------|--------|--------|
-| <img width="685" height="362" alt="Screenshot 2026-04-13 at 6 00 46 PM" src="https://github.com/user-attachments/assets/c9c61aca-0d91-4fef-a0e0-62144620adca" />| <img width="682" height="368" alt="Screenshot 2026-04-13 at 6 01 02 PM" src="https://github.com/user-attachments/assets/9b0691db-223e-4220-a2b7-6910f72102c7" />| <img width="694" height="360" alt="Screenshot 2026-04-13 at 6 01 33 PM" src="https://github.com/user-attachments/assets/f75365f9-5890-4ec0-b0bc-4622c7c8ddcf" />|
+| <img width="564" height="357" alt="Screenshot 2026-04-15 at 5 11 47 PM" src="https://github.com/user-attachments/assets/3267e752-36c3-4802-b0f0-a9958ab94a3f" />| <img width="575" height="355" alt="Screenshot 2026-04-15 at 5 12 04 PM" src="https://github.com/user-attachments/assets/fc997380-9df5-433d-b180-7086a8539f6d" />| <img width="573" height="360" alt="Screenshot 2026-04-15 at 5 12 20 PM" src="https://github.com/user-attachments/assets/0b96acc7-4ba1-402c-a6b0-16b0e1af3a66" />|
 
 ## IC-50
 <img width="658" height="388" alt="Screenshot 2026-04-09 at 5 43 51 PM" src="https://github.com/user-attachments/assets/28c49cf1-4bcc-47fa-993d-23006758a719" />
@@ -135,15 +135,15 @@
 
 | Plot 1 | Plot 2 (phage) |
 |--------|--------|
-| <img width="669" height="357" alt="Screenshot 2026-04-13 at 6 02 04 PM" src="https://github.com/user-attachments/assets/3fcc7c32-7757-4517-847a-0e7965624610" /> | <img width="702" height="365" alt="Screenshot 2026-04-13 at 6 02 20 PM" src="https://github.com/user-attachments/assets/853562f7-1738-4f78-8f05-407ba11d20fe" />|
+| <img width="565" height="358" alt="Screenshot 2026-04-15 at 5 13 02 PM" src="https://github.com/user-attachments/assets/7a5e23bf-f4aa-49ae-8f62-5bc1a9811314" /> | <img width="569" height="358" alt="Screenshot 2026-04-15 at 5 13 27 PM" src="https://github.com/user-attachments/assets/7ac60414-e94e-412f-9978-cd313da55d89" />|
 
 | Plot 3 | Plot 4 |
 |--------|--------|
-| <img width="683" height="357" alt="Screenshot 2026-04-13 at 6 02 39 PM" src="https://github.com/user-attachments/assets/7fe2db1d-f061-482b-9ac7-ad7b5f0210ea" /> | <img width="685" height="359" alt="Screenshot 2026-04-13 at 6 03 07 PM" src="https://github.com/user-attachments/assets/9b8870d2-00c9-477c-a681-f62c912a6b47" />|
+| <img width="564" height="361" alt="Screenshot 2026-04-15 at 5 13 46 PM" src="https://github.com/user-attachments/assets/dce1855e-377e-4097-9744-3fc370364287" /> | <img width="571" height="360" alt="Screenshot 2026-04-15 at 5 14 01 PM" src="https://github.com/user-attachments/assets/330943fb-21bd-42af-99bd-16e73630dd05" />|
 
 | Plot 5 (phage) | Plot 6 | Plot 7 |
 |--------|--------|--------|
-|<img width="673" height="362" alt="Screenshot 2026-04-13 at 6 03 25 PM" src="https://github.com/user-attachments/assets/51f0adac-ed3a-4ec1-96ec-ca5f64bf137c" />| <img width="695" height="355" alt="Screenshot 2026-04-13 at 6 03 56 PM" src="https://github.com/user-attachments/assets/b606f0ab-e6cd-4232-8cd0-792a34352504" /> | <img width="700" height="363" alt="Screenshot 2026-04-13 at 6 04 14 PM" src="https://github.com/user-attachments/assets/c3f40d48-d0bd-4e41-9d13-10cdfde2bb82" /> |
+|<img width="566" height="359" alt="Screenshot 2026-04-15 at 5 14 16 PM" src="https://github.com/user-attachments/assets/af2a1085-4b24-4523-b399-db6107668820" />| <img width="563" height="365" alt="Screenshot 2026-04-15 at 5 14 31 PM" src="https://github.com/user-attachments/assets/201a0bab-59c8-4e45-b2db-469795a973bb" /> | <img width="566" height="359" alt="Screenshot 2026-04-15 at 5 14 47 PM" src="https://github.com/user-attachments/assets/e0eb633f-0969-4046-9056-2a5bfd129ac7" />|
 
 
 ## IC50 distribution
