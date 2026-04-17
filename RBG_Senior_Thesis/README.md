@@ -163,9 +163,7 @@
 
 | Plot 5 (phage) | Plot 6 | Plot 7 |
 |--------|--------|--------|
-|<img width="569" height="358" alt="Screenshot 2026-04-17 at 3 14 38 PM" src="https://github.com/user-attachments/assets/83ed9327-8ebf-42f1-8f20-4ed02fe28599" />
-| <img width="568" height="354" alt="Screenshot 2026-04-17 at 3 14 55 PM" src="https://github.com/user-attachments/assets/c5f37b9c-142f-4e72-b475-d2a729fd110b" />
- | <img width="571" height="356" alt="Screenshot 2026-04-17 at 3 19 34 PM" src="https://github.com/user-attachments/assets/35584ae5-b6a0-4a83-8f6a-21179cf8200b" />|
+|<img width="569" height="358" alt="Screenshot 2026-04-17 at 3 14 38 PM" src="https://github.com/user-attachments/assets/83ed9327-8ebf-42f1-8f20-4ed02fe28599" /> | <img width="568" height="354" alt="Screenshot 2026-04-17 at 3 14 55 PM" src="https://github.com/user-attachments/assets/c5f37b9c-142f-4e72-b475-d2a729fd110b" /> | <img width="571" height="356" alt="Screenshot 2026-04-17 at 3 19 34 PM" src="https://github.com/user-attachments/assets/35584ae5-b6a0-4a83-8f6a-21179cf8200b" />|
 
 
 
