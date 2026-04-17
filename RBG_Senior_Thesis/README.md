@@ -4,7 +4,8 @@
 [11/02/2025](#1122025) </br>
 [03/07/26](#030726) </br>
 [04/03/26](#040326) </br>
-[04/09/26](#040926)
+[04/09/26](#040926) </br>
+[04/15/26](#041526)
 
 
 
@@ -149,7 +150,22 @@
 ## IC50 distribution
 <img width="648" height="385" alt="Screenshot 2026-04-10 at 9 31 10 AM" src="https://github.com/user-attachments/assets/e3ddced5-e687-4448-8185-c8753a4a19e0" />
 
+# 04/15/26
+### 99TK P6
 
+| Plot 1 | Plot 2 (phage) |
+|--------|--------|
+| <img width="565" height="360" alt="Screenshot 2026-04-17 at 3 13 01 PM" src="https://github.com/user-attachments/assets/79761ad8-d3b8-4b4a-bca1-c8cba5096a1b" />| <img width="565" height="364" alt="Screenshot 2026-04-17 at 3 13 30 PM" src="https://github.com/user-attachments/assets/dcb647c9-1770-4278-b7c5-3c7c0719f292" />|
+
+| Plot 3 | Plot 4 |
+|--------|--------|
+| <img width="571" height="360" alt="Screenshot 2026-04-17 at 3 13 52 PM" src="https://github.com/user-attachments/assets/1de62be9-1667-4296-8b4a-4a55099f890d" /> | <img width="576" height="354" alt="Screenshot 2026-04-17 at 3 14 14 PM" src="https://github.com/user-attachments/assets/08610312-e8b9-46dd-b2cc-c2f85d9684e5" />|
+
+| Plot 5 (phage) | Plot 6 | Plot 7 |
+|--------|--------|--------|
+|<img width="569" height="358" alt="Screenshot 2026-04-17 at 3 14 38 PM" src="https://github.com/user-attachments/assets/83ed9327-8ebf-42f1-8f20-4ed02fe28599" />
+| <img width="568" height="354" alt="Screenshot 2026-04-17 at 3 14 55 PM" src="https://github.com/user-attachments/assets/c5f37b9c-142f-4e72-b475-d2a729fd110b" />
+ | <img width="571" height="356" alt="Screenshot 2026-04-17 at 3 19 34 PM" src="https://github.com/user-attachments/assets/35584ae5-b6a0-4a83-8f6a-21179cf8200b" />|
 
 
 
