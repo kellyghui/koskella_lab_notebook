@@ -160,11 +160,12 @@
 
 | Plot 3 | Plot 4 |
 |--------|--------|
-| <img width="571" height="360" alt="Screenshot 2026-04-17 at 3 13 52 PM" src="https://github.com/user-attachments/assets/1de62be9-1667-4296-8b4a-4a55099f890d" /> | <img width="576" height="354" alt="Screenshot 2026-04-17 at 3 14 14 PM" src="https://github.com/user-attachments/assets/08610312-e8b9-46dd-b2cc-c2f85d9684e5" />|
+| <img width="571" height="360" alt="Screenshot 2026-04-17 at 3 13 52 PM" src="https://github.com/user-attachments/assets/1de62be9-1667-4296-8b4a-4a55099f890d" /> <img width="408" height="142" alt="Screenshot 2026-04-17 at 3 24 25 PM" src="https://github.com/user-attachments/assets/ddfa62b8-4492-4be1-b5e0-202f25207f3d" /> 
+| <img width="576" height="354" alt="Screenshot 2026-04-17 at 3 14 14 PM" src="https://github.com/user-attachments/assets/08610312-e8b9-46dd-b2cc-c2f85d9684e5" /> <img width="401" height="142" alt="Screenshot 2026-04-17 at 3 25 14 PM" src="https://github.com/user-attachments/assets/1505c57f-5b83-4f3d-9c71-6aecc09efb3b" />|
 
 | Plot 5 (phage) | Plot 6 | Plot 7 |
 |--------|--------|--------|
-|<img width="569" height="358" alt="Screenshot 2026-04-17 at 3 14 38 PM" src="https://github.com/user-attachments/assets/83ed9327-8ebf-42f1-8f20-4ed02fe28599" /> | <img width="568" height="354" alt="Screenshot 2026-04-17 at 3 14 55 PM" src="https://github.com/user-attachments/assets/c5f37b9c-142f-4e72-b475-d2a729fd110b" /> | <img width="571" height="356" alt="Screenshot 2026-04-17 at 3 19 34 PM" src="https://github.com/user-attachments/assets/35584ae5-b6a0-4a83-8f6a-21179cf8200b" />|
+|<img width="569" height="358" alt="Screenshot 2026-04-17 at 3 14 38 PM" src="https://github.com/user-attachments/assets/83ed9327-8ebf-42f1-8f20-4ed02fe28599" /> <img width="428" height="144" alt="Screenshot 2026-04-17 at 3 25 31 PM" src="https://github.com/user-attachments/assets/c1589435-3d64-4a1e-a31a-62d77fc8cd2c" /> | <img width="568" height="354" alt="Screenshot 2026-04-17 at 3 14 55 PM" src="https://github.com/user-attachments/assets/c5f37b9c-142f-4e72-b475-d2a729fd110b" /> <img width="412" height="141" alt="Screenshot 2026-04-17 at 3 25 52 PM" src="https://github.com/user-attachments/assets/710163e7-46bf-4424-8313-ec25186a08ed" />| <img width="571" height="356" alt="Screenshot 2026-04-17 at 3 19 34 PM" src="https://github.com/user-attachments/assets/35584ae5-b6a0-4a83-8f6a-21179cf8200b" />|
 
 
 
