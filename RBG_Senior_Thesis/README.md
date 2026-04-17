@@ -155,7 +155,8 @@
 
 | Plot 1 | Plot 2 (phage) |
 |--------|--------|
-| <img width="565" height="360" alt="Screenshot 2026-04-17 at 3 13 01 PM" src="https://github.com/user-attachments/assets/79761ad8-d3b8-4b4a-bca1-c8cba5096a1b" />| <img width="565" height="364" alt="Screenshot 2026-04-17 at 3 13 30 PM" src="https://github.com/user-attachments/assets/dcb647c9-1770-4278-b7c5-3c7c0719f292" />|
+| <img width="565" height="360" alt="Screenshot 2026-04-17 at 3 13 01 PM" src="https://github.com/user-attachments/assets/79761ad8-d3b8-4b4a-bca1-c8cba5096a1b" /> <img width="398" height="142" alt="Screenshot 2026-04-17 at 3 22 52 PM" src="https://github.com/user-attachments/assets/4bbd58ae-575d-4518-b464-a3b6db5e4799" />
+| <img width="565" height="364" alt="Screenshot 2026-04-17 at 3 13 30 PM" src="https://github.com/user-attachments/assets/dcb647c9-1770-4278-b7c5-3c7c0719f292" />|
 
 | Plot 3 | Plot 4 |
 |--------|--------|
