@@ -144,7 +144,7 @@
 
 | Plot 5 (phage) | Plot 6 | Plot 7 |
 |--------|--------|--------|
-|<img width="566" height="359" alt="Screenshot 2026-04-15 at 5 14 16 PM" src="https://github.com/user-attachments/assets/af2a1085-4b24-4523-b399-db6107668820" />| <img width="563" height="365" alt="Screenshot 2026-04-15 at 5 14 31 PM" src="https://github.com/user-attachments/assets/201a0bab-59c8-4e45-b2db-469795a973bb" /> | <img width="566" height="359" alt="Screenshot 2026-04-15 at 5 14 47 PM" src="https://github.com/user-attachments/assets/e0eb633f-0969-4046-9056-2a5bfd129ac7" />|
+|<img width="566" height="359" alt="Screenshot 2026-04-15 at 5 14 16 PM" src="https://github.com/user-attachments/assets/af2a1085-4b24-4523-b399-db6107668820" /> | <img width="563" height="365" alt="Screenshot 2026-04-15 at 5 14 31 PM" src="https://github.com/user-attachments/assets/201a0bab-59c8-4e45-b2db-469795a973bb" /> | <img width="566" height="359" alt="Screenshot 2026-04-15 at 5 14 47 PM" src="https://github.com/user-attachments/assets/e0eb633f-0969-4046-9056-2a5bfd129ac7" />|
 
 
 ## IC50 distribution
@@ -155,8 +155,8 @@
 
 | Plot 1 | Plot 2 (phage) |
 |--------|--------|
-| <img width="565" height="360" alt="Screenshot 2026-04-17 at 3 13 01 PM" src="https://github.com/user-attachments/assets/79761ad8-d3b8-4b4a-bca1-c8cba5096a1b" /> <img width="398" height="142" alt="Screenshot 2026-04-17 at 3 22 52 PM" src="https://github.com/user-attachments/assets/4bbd58ae-575d-4518-b464-a3b6db5e4799" />
-| <img width="565" height="364" alt="Screenshot 2026-04-17 at 3 13 30 PM" src="https://github.com/user-attachments/assets/dcb647c9-1770-4278-b7c5-3c7c0719f292" />|
+| <img width="565" height="360" alt="Screenshot 2026-04-17 at 3 13 01 PM" src="https://github.com/user-attachments/assets/79761ad8-d3b8-4b4a-bca1-c8cba5096a1b" /> <img width="398" height="142" alt="Screenshot 2026-04-17 at 3 22 52 PM" src="https://github.com/user-attachments/assets/4bbd58ae-575d-4518-b464-a3b6db5e4799" />| <img width="565" height="364" alt="Screenshot 2026-04-17 at 3 13 30 PM" src="https://github.com/user-attachments/assets/dcb647c9-1770-4278-b7c5-3c7c0719f292" /> <img width="404" height="143" alt="Screenshot 2026-04-17 at 3 23 45 PM" src="https://github.com/user-attachments/assets/104b6f8d-0824-4d94-8b56-46de6e484d52" />
+|
 
 | Plot 3 | Plot 4 |
 |--------|--------|
