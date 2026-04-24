@@ -167,7 +167,7 @@
 |--------|--------|--------|
 |<img width="569" height="358" alt="Screenshot 2026-04-17 at 3 14 38 PM" src="https://github.com/user-attachments/assets/83ed9327-8ebf-42f1-8f20-4ed02fe28599" /> <img width="428" height="144" alt="Screenshot 2026-04-17 at 3 25 31 PM" src="https://github.com/user-attachments/assets/c1589435-3d64-4a1e-a31a-62d77fc8cd2c" /> | <img width="568" height="354" alt="Screenshot 2026-04-17 at 3 14 55 PM" src="https://github.com/user-attachments/assets/c5f37b9c-142f-4e72-b475-d2a729fd110b" /> <img width="412" height="141" alt="Screenshot 2026-04-17 at 3 25 52 PM" src="https://github.com/user-attachments/assets/710163e7-46bf-4424-8313-ec25186a08ed" />| <img width="571" height="356" alt="Screenshot 2026-04-17 at 3 19 34 PM" src="https://github.com/user-attachments/assets/35584ae5-b6a0-4a83-8f6a-21179cf8200b" />|
 
-# 4/23/26
+# 04/23/26
 
 ### PT23 P2
 
@@ -175,17 +175,17 @@
 
 | Plot 1 | Plot 2 |
 |--------|--------|
-| <img width="563" height="354" alt="Screenshot 2026-04-24 at 1 50 57 PM" src="https://github.com/user-attachments/assets/4c9a0618-9631-4816-a215-486055fda2a5" /> | <img width="573" height="357" alt="Screenshot 2026-04-24 at 1 51 07 PM" src="https://github.com/user-attachments/assets/5c39cf03-a7cc-425b-8d05-25f0422680d6" />|
+| <img width="563" height="354" alt="Screenshot 2026-04-24 at 1 50 57 PM" src="https://github.com/user-attachments/assets/4c9a0618-9631-4816-a215-486055fda2a5" /> | <img width="573" height="357" alt="Screenshot 2026-04-24 at 1 51 07 PM" src="https://github.com/user-attachments/assets/5c39cf03-a7cc-425b-8d05-25f0422680d6" /> |
 
 | Plot 3 | Plot 4 |
 |--------|--------|
-| <img width="570" height="365" alt="Screenshot 2026-04-24 at 1 51 22 PM" src="https://github.com/user-attachments/assets/c9bca0e1-fc61-400b-b931-13280de3f79c" />| <img width="574" height="356" alt="Screenshot 2026-04-24 at 1 51 39 PM" src="https://github.com/user-attachments/assets/a3f6faed-3f27-4fcc-a948-578c30431ddd" />|
+| <img width="570" height="365" alt="Screenshot 2026-04-24 at 1 51 22 PM" src="https://github.com/user-attachments/assets/c9bca0e1-fc61-400b-b931-13280de3f79c" /> | <img width="574" height="356" alt="Screenshot 2026-04-24 at 1 51 39 PM" src="https://github.com/user-attachments/assets/a3f6faed-3f27-4fcc-a948-578c30431ddd" /> |
 
 | Plot 5 | Plot 6 | 
 |--------|--------|
 |<img width="574" height="365" alt="Screenshot 2026-04-24 at 1 52 08 PM" src="https://github.com/user-attachments/assets/e632ce49-671a-429f-ac69-f3170293ad90" /> | <img width="566" height="365" alt="Screenshot 2026-04-24 at 1 52 19 PM" src="https://github.com/user-attachments/assets/0692fa3f-2a75-4405-85a1-cb772d3c54b5" /> |
 
-# 4/24/26
+# 04/24/26
 
 ### 99TK P2
 
@@ -198,7 +198,7 @@
 | Plot 3 | Plot 4 |
 |--------|--------|
 
-| <img width="575" height="354" alt="Screenshot 2026-04-24 at 1 55 20 PM" src="https://github.com/user-attachments/assets/168bbf97-a70a-4a79-84d9-d44ff8de847b" /> | <img width="575" height="365" alt="Screenshot 2026-04-24 at 1 55 33 PM" src="https://github.com/user-attachments/assets/d98d613b-0a32-46a9-8877-f48b962b39f9" />|
+| <img width="575" height="354" alt="Screenshot 2026-04-24 at 1 55 20 PM" src="https://github.com/user-attachments/assets/168bbf97-a70a-4a79-84d9-d44ff8de847b" /> | <img width="575" height="365" alt="Screenshot 2026-04-24 at 1 55 33 PM" src="https://github.com/user-attachments/assets/d98d613b-0a32-46a9-8877-f48b962b39f9" /> |
 
 | Plot 5 | Plot 6 | 
 |--------|--------|
