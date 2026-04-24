@@ -6,7 +6,8 @@
 [04/03/26](#040326) </br>
 [04/09/26](#040926) </br>
 [04/15/26](#041526) </br>
-[04/23/26](#042326)
+[04/23/26](#042326) </br>
+[04/24/26](#042426)
 
 
 
@@ -197,7 +198,6 @@
 
 | Plot 3 | Plot 4 |
 |--------|--------|
-
 | <img width="575" height="354" alt="Screenshot 2026-04-24 at 1 55 20 PM" src="https://github.com/user-attachments/assets/168bbf97-a70a-4a79-84d9-d44ff8de847b" /> | <img width="575" height="365" alt="Screenshot 2026-04-24 at 1 55 33 PM" src="https://github.com/user-attachments/assets/d98d613b-0a32-46a9-8877-f48b962b39f9" /> |
 
 | Plot 5 | Plot 6 | 
